@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787524820300,
+  "updatedAt": 1787525830167,
   "source": "live",
   "count": 224,
   "events": [
@@ -1574,7 +1574,7 @@
       "date": "2026-08-23T22:45:00.000Z",
       "impact": "Medium",
       "forecast": "0.3%",
-      "previous": "0.9%"
+      "previous": "1.0%"
     },
     {
       "id": "309564-2026-08-23T22:45:00.000Z-Core-Retail-Sales-q/q",
@@ -1583,7 +1583,7 @@
       "date": "2026-08-23T22:45:00.000Z",
       "impact": "Medium",
       "forecast": "0.3%",
-      "previous": "1.0%"
+      "previous": "1.1%"
     },
     {
       "id": "309565-2026-08-23T22:45:00.000Z-Retail-Sales-y/y",
