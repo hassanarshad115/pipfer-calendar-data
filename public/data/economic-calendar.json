@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1787457907144,
+  "updatedAt": 1787460534620,
   "source": "live",
-  "count": 226,
+  "count": 224,
   "events": [
     {
       "id": "300315-2026-08-15T00:00:00.000Z-Assumption-of-Mary",
@@ -148,13 +148,6 @@
       "impact": "Low",
       "forecast": "-0.9%",
       "previous": "0.1%"
-    },
-    {
-      "id": "ff-2026-08-17T07:00:00.000Z-NBS-Press-Conference",
-      "title": "NBS Press Conference",
-      "country": "CNY",
-      "date": "2026-08-17T07:00:00.000Z",
-      "impact": "Low"
     },
     {
       "id": "315320-2026-08-17T09:30:00.000Z-ECB-Executive-Board-Member-Lane-Speech",
@@ -614,13 +607,6 @@
       "previous": "3.2%"
     },
     {
-      "id": "ff-2026-08-19T02:45:00.000Z-RBA-Deputy-Gov-Hauser-Speaks",
-      "title": "RBA Deputy Gov Hauser Speaks",
-      "country": "AUD",
-      "date": "2026-08-19T02:45:00.000Z",
-      "impact": "Medium"
-    },
-    {
       "id": "312104-2026-08-19T06:30:00.000Z-Industrial-Production-y/y",
       "title": "Industrial Production y/y",
       "country": "CHF",
@@ -634,13 +620,6 @@
       "country": "EUR",
       "date": "2026-08-19T07:10:00.000Z",
       "impact": "High"
-    },
-    {
-      "id": "ff-2026-08-19T07:10:00.000Z-ECB-President-Lagarde-Speaks",
-      "title": "ECB President Lagarde Speaks",
-      "country": "EUR",
-      "date": "2026-08-19T07:10:00.000Z",
-      "impact": "Medium"
     },
     {
       "id": "278416-2026-08-19T08:00:00.000Z-Current-Account",
@@ -773,13 +752,6 @@
       "impact": "High"
     },
     {
-      "id": "ff-2026-08-19T10:15:00.000Z-ECB-President-Lagarde-Speaks",
-      "title": "ECB President Lagarde Speaks",
-      "country": "EUR",
-      "date": "2026-08-19T10:15:00.000Z",
-      "impact": "Medium"
-    },
-    {
       "id": "307859-2026-08-19T14:30:00.000Z-EIA-Crude-Oil-Stocks-Change",
       "title": "EIA Crude Oil Stocks Change",
       "country": "USD",
@@ -883,13 +855,6 @@
       "country": "USD",
       "date": "2026-08-19T18:00:00.000Z",
       "impact": "Medium"
-    },
-    {
-      "id": "ff-2026-08-19T18:00:00.000Z-FOMC-Meeting-Minutes",
-      "title": "FOMC Meeting Minutes",
-      "country": "USD",
-      "date": "2026-08-19T18:00:00.000Z",
-      "impact": "High"
     },
     {
       "id": "284588-2026-08-19T23:50:00.000Z-Adjusted-Trade-Balance",
@@ -1171,15 +1136,6 @@
       "previous": "199.750 K"
     },
     {
-      "id": "ff-2026-08-20T12:30:00.000Z-Philly-Fed-Manufacturing-Index",
-      "title": "Philly Fed Manufacturing Index",
-      "country": "USD",
-      "date": "2026-08-20T12:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "24.1",
-      "previous": "41.4"
-    },
-    {
       "id": "284694-2026-08-20T14:00:00.000Z-CB-Leading-Economic-Index-m/m",
       "title": "CB Leading Economic Index m/m",
       "country": "USD",
@@ -1196,13 +1152,6 @@
       "impact": "Low",
       "forecast": "21 B",
       "previous": "36 B"
-    },
-    {
-      "id": "ff-2026-08-20T15:10:00.000Z-FOMC-Member-Musalem-Speaks",
-      "title": "FOMC Member Musalem Speaks",
-      "country": "USD",
-      "date": "2026-08-20T15:10:00.000Z",
-      "impact": "Medium"
     },
     {
       "id": "315803-2026-08-20T15:30:00.000Z-4-Week-Bill-Auction",
@@ -1703,6 +1652,13 @@
       "previous": "3.780%"
     },
     {
+      "id": "ff-2026-08-25T01:30:00.000Z-Monetary-Policy-Meeting-Minutes",
+      "title": "Monetary Policy Meeting Minutes",
+      "country": "AUD",
+      "date": "2026-08-25T01:30:00.000Z",
+      "impact": "Low"
+    },
+    {
       "id": "304590-2026-08-25T05:00:00.000Z-Coincident-Index",
       "title": "Coincident Index",
       "country": "JPY",
@@ -1752,6 +1708,15 @@
       "date": "2026-08-25T05:00:00.000Z",
       "impact": "Medium",
       "forecast": "1.3%",
+      "previous": "1.5%"
+    },
+    {
+      "id": "ff-2026-08-25T05:00:00.000Z-BOJ-Core-CPI-y/y",
+      "title": "BOJ Core CPI y/y",
+      "country": "JPY",
+      "date": "2026-08-25T05:00:00.000Z",
+      "impact": "Low",
+      "forecast": "1.4%",
       "previous": "1.5%"
     },
     {
@@ -1930,6 +1895,27 @@
       "impact": "Low",
       "forecast": "3.5%",
       "previous": "3.2%"
+    },
+    {
+      "id": "ff-2026-08-27T01:30:00.000Z-RBA-Bulletin",
+      "title": "RBA Bulletin",
+      "country": "AUD",
+      "date": "2026-08-27T01:30:00.000Z",
+      "impact": "Low"
+    },
+    {
+      "id": "ff-2026-08-27T11:30:00.000Z-ECB-Monetary-Policy-Meeting-Accounts",
+      "title": "ECB Monetary Policy Meeting Accounts",
+      "country": "EUR",
+      "date": "2026-08-27T11:30:00.000Z",
+      "impact": "High"
+    },
+    {
+      "id": "ff-2026-08-28T14:00:00.000Z-Fed-Chairman-Warsh-Speaks",
+      "title": "Fed Chairman Warsh Speaks",
+      "country": "USD",
+      "date": "2026-08-28T14:00:00.000Z",
+      "impact": "High"
     },
     {
       "id": "fed-2026-09-16-FOMC-Statement",
