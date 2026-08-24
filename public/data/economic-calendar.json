@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1787585070708,
+  "updatedAt": 1787587399426,
   "source": "live",
-  "count": 264,
+  "count": 267,
   "events": [
     {
       "id": "309563-2026-08-23T22:45:00.000Z-Retail-Sales-q/q",
@@ -209,6 +209,13 @@
       "previous": "2.78%"
     },
     {
+      "id": "ff-2026-08-25T12:30:00.000Z-FOMC-Member-Barkin-Speaks",
+      "title": "FOMC Member Barkin Speaks",
+      "country": "USD",
+      "date": "2026-08-25T12:30:00.000Z",
+      "impact": "Medium"
+    },
+    {
       "id": "266620-2026-08-25T13:00:00.000Z-HPI-m/m",
       "title": "HPI m/m",
       "country": "USD",
@@ -322,6 +329,13 @@
       "date": "2026-08-25T17:00:00.000Z",
       "impact": "Medium",
       "previous": "4.315%"
+    },
+    {
+      "id": "ff-2026-08-25T20:00:00.000Z-FOMC-Member-Barkin-Speaks",
+      "title": "FOMC Member Barkin Speaks",
+      "country": "USD",
+      "date": "2026-08-25T20:00:00.000Z",
+      "impact": "Medium"
     },
     {
       "id": "281003-2026-08-25T23:50:00.000Z-BoJ-Corporate-Services-Price-Index-y/y",
@@ -652,6 +666,13 @@
       "date": "2026-08-26T14:30:00.000Z",
       "impact": "Low",
       "previous": "1.0%"
+    },
+    {
+      "id": "ff-2026-08-26T15:45:00.000Z-FOMC-Member-Barkin-Speaks",
+      "title": "FOMC Member Barkin Speaks",
+      "country": "USD",
+      "date": "2026-08-26T15:45:00.000Z",
+      "impact": "Medium"
     },
     {
       "id": "301592-2026-08-26T17:00:00.000Z-5-Year-Note-Auction",
@@ -1723,14 +1744,16 @@
       "title": "3-Month Bill Auction",
       "country": "USD",
       "date": "2026-08-31T15:30:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "3.715%"
     },
     {
       "id": "301547-2026-08-31T15:30:00.000Z-6-Month-Bill-Auction",
       "title": "6-Month Bill Auction",
       "country": "USD",
       "date": "2026-08-31T15:30:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "3.790%"
     },
     {
       "id": "313658-2026-08-31T23:00:00.000Z-S&P-Global-Manufacturing-PMI",
