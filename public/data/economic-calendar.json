@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787573028436,
+  "updatedAt": 1787576947388,
   "source": "live",
   "count": 264,
   "events": [
@@ -36,7 +36,7 @@
       "country": "CAD",
       "date": "2026-08-24T12:30:00.000Z",
       "impact": "Low",
-      "previous": "2.0%"
+      "previous": "1.1%"
     },
     {
       "id": "280301-2026-08-24T12:30:00.000Z-Chicago-Fed-National-Activity-Index",
@@ -45,29 +45,29 @@
       "date": "2026-08-24T12:30:00.000Z",
       "impact": "Low",
       "forecast": "-0.03",
-      "previous": "-0.02"
+      "previous": "0.06"
     },
     {
-      "id": "309611-2026-08-24T12:50:00.000Z-3-Month-BTF-Auction",
+      "id": "309611-2026-08-24T12:55:00.000Z-3-Month-BTF-Auction",
       "title": "3-Month BTF Auction",
       "country": "EUR",
-      "date": "2026-08-24T12:50:00.000Z",
+      "date": "2026-08-24T12:55:00.000Z",
       "impact": "Low",
       "previous": "2.484%"
     },
     {
-      "id": "309616-2026-08-24T12:50:00.000Z-6-Month-BTF-Auction",
+      "id": "309616-2026-08-24T12:55:00.000Z-6-Month-BTF-Auction",
       "title": "6-Month BTF Auction",
       "country": "EUR",
-      "date": "2026-08-24T12:50:00.000Z",
+      "date": "2026-08-24T12:55:00.000Z",
       "impact": "Low",
       "previous": "2.608%"
     },
     {
-      "id": "309621-2026-08-24T12:50:00.000Z-12-Month-BTF-Auction",
+      "id": "309621-2026-08-24T12:55:00.000Z-12-Month-BTF-Auction",
       "title": "12-Month BTF Auction",
       "country": "EUR",
-      "date": "2026-08-24T12:50:00.000Z",
+      "date": "2026-08-24T12:55:00.000Z",
       "impact": "Low",
       "previous": "2.781%"
     },
@@ -1681,21 +1681,24 @@
       "title": "3-Month BTF Auction",
       "country": "EUR",
       "date": "2026-08-31T12:50:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "2.502%"
     },
     {
       "id": "309617-2026-08-31T12:50:00.000Z-6-Month-BTF-Auction",
       "title": "6-Month BTF Auction",
       "country": "EUR",
       "date": "2026-08-31T12:50:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "2.675%"
     },
     {
       "id": "309622-2026-08-31T12:50:00.000Z-12-Month-BTF-Auction",
       "title": "12-Month BTF Auction",
       "country": "EUR",
       "date": "2026-08-31T12:50:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "2.832%"
     },
     {
       "id": "309605-2026-08-31T13:45:00.000Z-MNI-Chicago-Business-Barometer",
