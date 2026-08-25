@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1787646775318,
+  "updatedAt": 1787649475329,
   "source": "live",
   "count": 267,
   "events": [
@@ -180,7 +180,7 @@
       "date": "2026-08-25T08:30:00.000Z",
       "impact": "Medium",
       "forecast": "83.6",
-      "previous": "84.1"
+      "previous": "86.8"
     },
     {
       "id": "312997-2026-08-25T08:30:00.000Z-Ifo-Current-Business-Situation",
@@ -189,7 +189,7 @@
       "date": "2026-08-25T08:30:00.000Z",
       "impact": "Medium",
       "forecast": "86.0",
-      "previous": "87.0"
+      "previous": "86.5"
     },
     {
       "id": "313002-2026-08-25T08:30:00.000Z-Ifo-Business-Climate",
@@ -198,7 +198,7 @@
       "date": "2026-08-25T08:30:00.000Z",
       "impact": "Medium",
       "forecast": "84.7",
-      "previous": "85.6"
+      "previous": "86.7"
     },
     {
       "id": "280376-2026-08-25T09:30:00.000Z-2-Year-Note-Auction",
