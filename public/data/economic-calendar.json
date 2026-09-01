@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788267577471,
+  "updatedAt": 1788282392826,
   "source": "live",
   "count": 310,
   "events": [
@@ -698,22 +698,13 @@
       "previous": "53.9"
     },
     {
-      "id": "253347-2026-09-01T14:00:00.000Z-GDT-Price-Index",
-      "title": "GDT Price Index",
-      "country": "NZD",
-      "date": "2026-09-01T14:00:00.000Z",
-      "impact": "Low",
-      "forecast": "1.4%",
-      "previous": "2.3%"
-    },
-    {
       "id": "270175-2026-09-01T14:00:00.000Z-Construction-Spending-m/m",
       "title": "Construction Spending m/m",
       "country": "USD",
       "date": "2026-09-01T14:00:00.000Z",
       "impact": "Medium",
       "forecast": "-0.2%",
-      "previous": "-0.1%"
+      "previous": "0.0%"
     },
     {
       "id": "289569-2026-09-01T14:00:00.000Z-JOLTS-Job-Openings",
@@ -722,7 +713,7 @@
       "date": "2026-09-01T14:00:00.000Z",
       "impact": "High",
       "forecast": "7.496 M",
-      "previous": "7.359 M"
+      "previous": "7.182 M"
     },
     {
       "id": "283016-2026-09-01T14:00:00.000Z-ISM-Manufacturing-PMI",
@@ -777,6 +768,15 @@
       "impact": "Low",
       "forecast": "3.9",
       "previous": "6.6"
+    },
+    {
+      "id": "253347-2026-09-01T15:25:00.000Z-GDT-Price-Index",
+      "title": "GDT Price Index",
+      "country": "NZD",
+      "date": "2026-09-01T15:25:00.000Z",
+      "impact": "Low",
+      "forecast": "1.4%",
+      "previous": "2.3%"
     },
     {
       "id": "301583-2026-09-01T15:30:00.000Z-52-Week-Bill-Auction",
