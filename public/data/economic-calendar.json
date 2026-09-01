@@ -1,1557 +1,8 @@
 {
-  "updatedAt": 1787649475329,
+  "updatedAt": 1788225069876,
   "source": "live",
-  "count": 267,
+  "count": 310,
   "events": [
-    {
-      "id": "309563-2026-08-23T22:45:00.000Z-Retail-Sales-q/q",
-      "title": "Retail Sales q/q",
-      "country": "NZD",
-      "date": "2026-08-23T22:45:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.3%",
-      "previous": "1.0%"
-    },
-    {
-      "id": "309564-2026-08-23T22:45:00.000Z-Core-Retail-Sales-q/q",
-      "title": "Core Retail Sales q/q",
-      "country": "NZD",
-      "date": "2026-08-23T22:45:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.3%",
-      "previous": "1.1%"
-    },
-    {
-      "id": "309565-2026-08-23T22:45:00.000Z-Retail-Sales-y/y",
-      "title": "Retail Sales y/y",
-      "country": "NZD",
-      "date": "2026-08-23T22:45:00.000Z",
-      "impact": "Medium",
-      "forecast": "4.5%",
-      "previous": "4.5%"
-    },
-    {
-      "id": "278049-2026-08-24T12:30:00.000Z-Corporate-Profits-q/q",
-      "title": "Corporate Profits q/q",
-      "country": "CAD",
-      "date": "2026-08-24T12:30:00.000Z",
-      "impact": "Low",
-      "previous": "1.1%"
-    },
-    {
-      "id": "280301-2026-08-24T12:30:00.000Z-Chicago-Fed-National-Activity-Index",
-      "title": "Chicago Fed National Activity Index",
-      "country": "USD",
-      "date": "2026-08-24T12:30:00.000Z",
-      "impact": "Low",
-      "forecast": "-0.03",
-      "previous": "0.06"
-    },
-    {
-      "id": "309611-2026-08-24T12:55:00.000Z-3-Month-BTF-Auction",
-      "title": "3-Month BTF Auction",
-      "country": "EUR",
-      "date": "2026-08-24T12:55:00.000Z",
-      "impact": "Low",
-      "previous": "2.484%"
-    },
-    {
-      "id": "309616-2026-08-24T12:55:00.000Z-6-Month-BTF-Auction",
-      "title": "6-Month BTF Auction",
-      "country": "EUR",
-      "date": "2026-08-24T12:55:00.000Z",
-      "impact": "Low",
-      "previous": "2.608%"
-    },
-    {
-      "id": "309621-2026-08-24T12:55:00.000Z-12-Month-BTF-Auction",
-      "title": "12-Month BTF Auction",
-      "country": "EUR",
-      "date": "2026-08-24T12:55:00.000Z",
-      "impact": "Low",
-      "previous": "2.781%"
-    },
-    {
-      "id": "301533-2026-08-24T15:30:00.000Z-3-Month-Bill-Auction",
-      "title": "3-Month Bill Auction",
-      "country": "USD",
-      "date": "2026-08-24T15:30:00.000Z",
-      "impact": "Low",
-      "previous": "3.715%"
-    },
-    {
-      "id": "301546-2026-08-24T15:30:00.000Z-6-Month-Bill-Auction",
-      "title": "6-Month Bill Auction",
-      "country": "USD",
-      "date": "2026-08-24T15:30:00.000Z",
-      "impact": "Low",
-      "previous": "3.780%"
-    },
-    {
-      "id": "ff-2026-08-25T01:30:00.000Z-Monetary-Policy-Meeting-Minutes",
-      "title": "Monetary Policy Meeting Minutes",
-      "country": "AUD",
-      "date": "2026-08-25T01:30:00.000Z",
-      "impact": "Low"
-    },
-    {
-      "id": "304590-2026-08-25T05:00:00.000Z-Coincident-Index",
-      "title": "Coincident Index",
-      "country": "JPY",
-      "date": "2026-08-25T05:00:00.000Z",
-      "impact": "Low",
-      "forecast": "118.2",
-      "previous": "118.2"
-    },
-    {
-      "id": "304592-2026-08-25T05:00:00.000Z-Leading-Index",
-      "title": "Leading Index",
-      "country": "JPY",
-      "date": "2026-08-25T05:00:00.000Z",
-      "impact": "Low",
-      "forecast": "116.4",
-      "previous": "116.4"
-    },
-    {
-      "id": "304594-2026-08-25T05:00:00.000Z-Coincident-Index-m/m",
-      "title": "Coincident Index m/m",
-      "country": "JPY",
-      "date": "2026-08-25T05:00:00.000Z",
-      "impact": "Low",
-      "previous": "0.3%"
-    },
-    {
-      "id": "304596-2026-08-25T05:00:00.000Z-Leading-Index-m/m",
-      "title": "Leading Index m/m",
-      "country": "JPY",
-      "date": "2026-08-25T05:00:00.000Z",
-      "impact": "Low",
-      "previous": "0.0%"
-    },
-    {
-      "id": "291144-2026-08-25T05:00:00.000Z-BoJ-Trimmed-Mean-Core-CPI-y/y",
-      "title": "BoJ Trimmed Mean Core CPI y/y",
-      "country": "JPY",
-      "date": "2026-08-25T05:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "3.1%",
-      "previous": "2.6%"
-    },
-    {
-      "id": "291145-2026-08-25T05:00:00.000Z-BoJ-Weighted-Median-Core-CPI-y/y",
-      "title": "BoJ Weighted Median Core CPI y/y",
-      "country": "JPY",
-      "date": "2026-08-25T05:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "1.3%",
-      "previous": "1.5%"
-    },
-    {
-      "id": "ff-2026-08-25T05:00:00.000Z-BOJ-Core-CPI-y/y",
-      "title": "BOJ Core CPI y/y",
-      "country": "JPY",
-      "date": "2026-08-25T05:00:00.000Z",
-      "impact": "Low",
-      "forecast": "1.4%",
-      "previous": "1.5%"
-    },
-    {
-      "id": "300589-2026-08-25T06:45:00.000Z-Consumer-Confidence-Index",
-      "title": "Consumer Confidence Index",
-      "country": "EUR",
-      "date": "2026-08-25T06:45:00.000Z",
-      "impact": "Low",
-      "forecast": "87",
-      "previous": "86"
-    },
-    {
-      "id": "282257-2026-08-25T07:00:00.000Z-PPI-y/y",
-      "title": "PPI y/y",
-      "country": "EUR",
-      "date": "2026-08-25T07:00:00.000Z",
-      "impact": "Low",
-      "forecast": "6.7%",
-      "previous": "7.0%"
-    },
-    {
-      "id": "312992-2026-08-25T08:30:00.000Z-Ifo-Business-Expectations",
-      "title": "Ifo Business Expectations",
-      "country": "EUR",
-      "date": "2026-08-25T08:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "83.6",
-      "previous": "86.8"
-    },
-    {
-      "id": "312997-2026-08-25T08:30:00.000Z-Ifo-Current-Business-Situation",
-      "title": "Ifo Current Business Situation",
-      "country": "EUR",
-      "date": "2026-08-25T08:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "86.0",
-      "previous": "86.5"
-    },
-    {
-      "id": "313002-2026-08-25T08:30:00.000Z-Ifo-Business-Climate",
-      "title": "Ifo Business Climate",
-      "country": "EUR",
-      "date": "2026-08-25T08:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "84.7",
-      "previous": "86.7"
-    },
-    {
-      "id": "280376-2026-08-25T09:30:00.000Z-2-Year-Note-Auction",
-      "title": "2-Year Note Auction",
-      "country": "EUR",
-      "date": "2026-08-25T09:30:00.000Z",
-      "impact": "Low",
-      "previous": "2.78%"
-    },
-    {
-      "id": "ff-2026-08-25T12:30:00.000Z-FOMC-Member-Barkin-Speaks",
-      "title": "FOMC Member Barkin Speaks",
-      "country": "USD",
-      "date": "2026-08-25T12:30:00.000Z",
-      "impact": "Medium"
-    },
-    {
-      "id": "266620-2026-08-25T13:00:00.000Z-HPI-m/m",
-      "title": "HPI m/m",
-      "country": "USD",
-      "date": "2026-08-25T13:00:00.000Z",
-      "impact": "Low",
-      "forecast": "0.1%",
-      "previous": "0.3%"
-    },
-    {
-      "id": "266632-2026-08-25T13:00:00.000Z-HPI-y/y",
-      "title": "HPI y/y",
-      "country": "USD",
-      "date": "2026-08-25T13:00:00.000Z",
-      "impact": "Low",
-      "forecast": "2.2%",
-      "previous": "2.2%"
-    },
-    {
-      "id": "266644-2026-08-25T13:00:00.000Z-HPI",
-      "title": "HPI",
-      "country": "USD",
-      "date": "2026-08-25T13:00:00.000Z",
-      "impact": "Low",
-      "forecast": "441.7",
-      "previous": "442.4"
-    },
-    {
-      "id": "309602-2026-08-25T13:00:00.000Z-S&P/CS-HPI-Composite-20-y/y",
-      "title": "S&P/CS HPI Composite-20 y/y",
-      "country": "USD",
-      "date": "2026-08-25T13:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "1.7%",
-      "previous": "1.6%"
-    },
-    {
-      "id": "309603-2026-08-25T13:00:00.000Z-S&P/CS-HPI-Composite-20-n.s.a.-m/m",
-      "title": "S&P/CS HPI Composite-20 n.s.a. m/m",
-      "country": "USD",
-      "date": "2026-08-25T13:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.6%",
-      "previous": "0.9%"
-    },
-    {
-      "id": "309604-2026-08-25T13:00:00.000Z-S&P/CS-HPI-Composite-20-s.a.-m/m",
-      "title": "S&P/CS HPI Composite-20 s.a. m/m",
-      "country": "USD",
-      "date": "2026-08-25T13:00:00.000Z",
-      "impact": "Low",
-      "forecast": "0.3%",
-      "previous": "0.1%"
-    },
-    {
-      "id": "270258-2026-08-25T14:00:00.000Z-New-Home-Sales",
-      "title": "New Home Sales",
-      "country": "USD",
-      "date": "2026-08-25T14:00:00.000Z",
-      "impact": "High",
-      "forecast": "0.640 M",
-      "previous": "0.628 M"
-    },
-    {
-      "id": "270270-2026-08-25T14:00:00.000Z-New-Home-Sales-m/m",
-      "title": "New Home Sales m/m",
-      "country": "USD",
-      "date": "2026-08-25T14:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "5.6%",
-      "previous": "1.6%"
-    },
-    {
-      "id": "279669-2026-08-25T14:00:00.000Z-CB-Consumer-Confidence-Index",
-      "title": "CB Consumer Confidence Index",
-      "country": "USD",
-      "date": "2026-08-25T14:00:00.000Z",
-      "impact": "High",
-      "forecast": "91.8",
-      "previous": "90.8"
-    },
-    {
-      "id": "289009-2026-08-25T14:00:00.000Z-Richmond-Fed-Manufacturing-Index",
-      "title": "Richmond Fed Manufacturing Index",
-      "country": "USD",
-      "date": "2026-08-25T14:00:00.000Z",
-      "impact": "Low",
-      "forecast": "-4",
-      "previous": "5"
-    },
-    {
-      "id": "289021-2026-08-25T14:00:00.000Z-Richmond-Fed-Manufacturing-Shipments",
-      "title": "Richmond Fed Manufacturing Shipments",
-      "country": "USD",
-      "date": "2026-08-25T14:00:00.000Z",
-      "impact": "Low",
-      "previous": "8"
-    },
-    {
-      "id": "299122-2026-08-25T14:00:00.000Z-Richmond-Fed-Services-Revenues",
-      "title": "Richmond Fed Services Revenues",
-      "country": "USD",
-      "date": "2026-08-25T14:00:00.000Z",
-      "impact": "Low",
-      "forecast": "-8",
-      "previous": "-3"
-    },
-    {
-      "id": "301586-2026-08-25T17:00:00.000Z-2-Year-Note-Auction",
-      "title": "2-Year Note Auction",
-      "country": "USD",
-      "date": "2026-08-25T17:00:00.000Z",
-      "impact": "Medium",
-      "previous": "4.315%"
-    },
-    {
-      "id": "ff-2026-08-25T20:00:00.000Z-FOMC-Member-Barkin-Speaks",
-      "title": "FOMC Member Barkin Speaks",
-      "country": "USD",
-      "date": "2026-08-25T20:00:00.000Z",
-      "impact": "Medium"
-    },
-    {
-      "id": "281003-2026-08-25T23:50:00.000Z-BoJ-Corporate-Services-Price-Index-y/y",
-      "title": "BoJ Corporate Services Price Index y/y",
-      "country": "JPY",
-      "date": "2026-08-25T23:50:00.000Z",
-      "impact": "Low",
-      "forecast": "3.5%",
-      "previous": "3.2%"
-    },
-    {
-      "id": "302089-2026-08-26T01:30:00.000Z-Construction-Work-Done-q/q",
-      "title": "Construction Work Done q/q",
-      "country": "AUD",
-      "date": "2026-08-26T01:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.2%",
-      "previous": "3.4%"
-    },
-    {
-      "id": "305408-2026-08-26T08:00:00.000Z-Credit-Suisse-Economic-Expectations",
-      "title": "Credit Suisse Economic Expectations",
-      "country": "CHF",
-      "date": "2026-08-26T08:00:00.000Z",
-      "impact": "Low",
-      "forecast": "-2.3",
-      "previous": "10.0"
-    },
-    {
-      "id": "316000-2026-08-26T09:30:00.000Z-30-Year-Bond-Auction",
-      "title": "30-Year Bond Auction",
-      "country": "EUR",
-      "date": "2026-08-26T09:30:00.000Z",
-      "impact": "Low",
-      "previous": "3.65%"
-    },
-    {
-      "id": "311968-2026-08-26T09:30:00.000Z-2-Year-CTZ-Auction",
-      "title": "2-Year CTZ Auction",
-      "country": "EUR",
-      "date": "2026-08-26T09:30:00.000Z",
-      "impact": "Low",
-      "previous": "2.920%"
-    },
-    {
-      "id": "282559-2026-08-26T12:30:00.000Z-Core-PCE-Price-Index-m/m",
-      "title": "Core PCE Price Index m/m",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "High",
-      "forecast": "0.2%",
-      "previous": "0.1%"
-    },
-    {
-      "id": "282571-2026-08-26T12:30:00.000Z-Core-PCE-Price-Index-y/y",
-      "title": "Core PCE Price Index y/y",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "High",
-      "forecast": "3.3%",
-      "previous": "3.3%"
-    },
-    {
-      "id": "282583-2026-08-26T12:30:00.000Z-PCE-Price-Index-m/m",
-      "title": "PCE Price Index m/m",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.0%",
-      "previous": "-0.1%"
-    },
-    {
-      "id": "282595-2026-08-26T12:30:00.000Z-PCE-Price-Index-y/y",
-      "title": "PCE Price Index y/y",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "3.0%",
-      "previous": "3.7%"
-    },
-    {
-      "id": "282607-2026-08-26T12:30:00.000Z-Personal-Spending-m/m",
-      "title": "Personal Spending m/m",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.5%",
-      "previous": "0.3%"
-    },
-    {
-      "id": "282619-2026-08-26T12:30:00.000Z-Personal-Income-m/m",
-      "title": "Personal Income m/m",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "Low",
-      "forecast": "0.7%",
-      "previous": "0.2%"
-    },
-    {
-      "id": "287131-2026-08-26T12:30:00.000Z-GDP-q/q",
-      "title": "GDP q/q",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "High",
-      "forecast": "1.5%",
-      "previous": "1.5%",
-      "actual": "1.5%",
-      "actualSource": "official"
-    },
-    {
-      "id": "287143-2026-08-26T12:30:00.000Z-GDP-Price-Index-q/q",
-      "title": "GDP Price Index q/q",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "Low",
-      "forecast": "6.2%",
-      "previous": "6.2%",
-      "actual": "1.5%",
-      "actualSource": "official"
-    },
-    {
-      "id": "287155-2026-08-26T12:30:00.000Z-Core-PCE-Price-Index-q/q",
-      "title": "Core PCE Price Index q/q",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "Low",
-      "forecast": "3.4%",
-      "previous": "3.4%"
-    },
-    {
-      "id": "287167-2026-08-26T12:30:00.000Z-PCE-Price-Index-q/q",
-      "title": "PCE Price Index q/q",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "Low",
-      "forecast": "5.1%",
-      "previous": "5.1%"
-    },
-    {
-      "id": "282631-2026-08-26T12:30:00.000Z-Real-PCE-m/m",
-      "title": "Real PCE m/m",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "Low",
-      "forecast": "0.2%",
-      "previous": "0.4%"
-    },
-    {
-      "id": "287183-2026-08-26T12:30:00.000Z-Real-PCE-q/q",
-      "title": "Real PCE q/q",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "3.2%",
-      "previous": "3.2%"
-    },
-    {
-      "id": "287191-2026-08-26T12:30:00.000Z-Corporate-Profits-q/q",
-      "title": "Corporate Profits q/q",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "Low",
-      "forecast": "-1.9%",
-      "previous": "0.5%"
-    },
-    {
-      "id": "287202-2026-08-26T12:30:00.000Z-GDP-Sales-q/q",
-      "title": "GDP Sales q/q",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "High",
-      "forecast": "2.2%",
-      "previous": "2.2%",
-      "actual": "1.5%",
-      "actualSource": "official"
-    },
-    {
-      "id": "270318-2026-08-26T12:30:00.000Z-Durable-Goods-Orders-m/m",
-      "title": "Durable Goods Orders m/m",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "High",
-      "forecast": "0.8%",
-      "previous": "0.3%",
-      "actual": "0.3%",
-      "actualSource": "official"
-    },
-    {
-      "id": "270330-2026-08-26T12:30:00.000Z-Core-Durable-Goods-Orders-m/m",
-      "title": "Core Durable Goods Orders m/m",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "1.0%",
-      "previous": "0.6%",
-      "actual": "0.3%",
-      "actualSource": "official"
-    },
-    {
-      "id": "270366-2026-08-26T12:30:00.000Z-Durable-Goods-Orders-excl.-Defense-m/m",
-      "title": "Durable Goods Orders excl. Defense m/m",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "Low",
-      "forecast": "2.6%",
-      "previous": "0.3%"
-    },
-    {
-      "id": "270378-2026-08-26T12:30:00.000Z-Nondefense-Capital-Goods-Orders-excl.-Aircraft-m/m",
-      "title": "Nondefense Capital Goods Orders excl. Aircraft m/m",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "Low",
-      "forecast": "0.5%",
-      "previous": "0.9%"
-    },
-    {
-      "id": "270434-2026-08-26T12:30:00.000Z-Nondefense-Capital-Goods-Shipments-excl.-Aircraft-m/m",
-      "title": "Nondefense Capital Goods Shipments excl. Aircraft m/m",
-      "country": "USD",
-      "date": "2026-08-26T12:30:00.000Z",
-      "impact": "Low",
-      "forecast": "0.9%",
-      "previous": "2.0%"
-    },
-    {
-      "id": "313248-2026-08-26T14:00:00.000Z-Dallas-Fed-Trimmed-Mean-PCE-Inflation-Rate",
-      "title": "Dallas Fed Trimmed Mean PCE Inflation Rate",
-      "country": "USD",
-      "date": "2026-08-26T14:00:00.000Z",
-      "impact": "Low",
-      "forecast": "1.7%",
-      "previous": "1.4%"
-    },
-    {
-      "id": "316001-2026-08-26T14:30:00.000Z-Bbk-Executive-Board-Member-Balz-Speech",
-      "title": "Bbk Executive Board Member Balz Speech",
-      "country": "EUR",
-      "date": "2026-08-26T14:30:00.000Z",
-      "impact": "Medium"
-    },
-    {
-      "id": "308722-2026-08-26T14:30:00.000Z-EIA-Crude-Oil-Stocks-Change",
-      "title": "EIA Crude Oil Stocks Change",
-      "country": "USD",
-      "date": "2026-08-26T14:30:00.000Z",
-      "impact": "High",
-      "forecast": "5.390 M",
-      "previous": "4.405 M",
-      "actual": "+4.405 M",
-      "actualSource": "official"
-    },
-    {
-      "id": "308723-2026-08-26T14:30:00.000Z-EIA-Cushing-Crude-Oil-Stocks-Change",
-      "title": "EIA Cushing Crude Oil Stocks Change",
-      "country": "USD",
-      "date": "2026-08-26T14:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "-1.447 M",
-      "previous": "-1.314 M"
-    },
-    {
-      "id": "308724-2026-08-26T14:30:00.000Z-EIA-Crude-Oil-Imports-Change",
-      "title": "EIA Crude Oil Imports Change",
-      "country": "USD",
-      "date": "2026-08-26T14:30:00.000Z",
-      "impact": "Low",
-      "forecast": "-1.532 M",
-      "previous": "-1.754 M"
-    },
-    {
-      "id": "308725-2026-08-26T14:30:00.000Z-EIA-Distillate-Fuel-Production-Change",
-      "title": "EIA Distillate Fuel Production Change",
-      "country": "USD",
-      "date": "2026-08-26T14:30:00.000Z",
-      "impact": "Low",
-      "forecast": "0.044 M",
-      "previous": "-0.054 M"
-    },
-    {
-      "id": "308726-2026-08-26T14:30:00.000Z-EIA-Distillates-Stocks-Change",
-      "title": "EIA Distillates Stocks Change",
-      "country": "USD",
-      "date": "2026-08-26T14:30:00.000Z",
-      "impact": "Low",
-      "forecast": "-0.653 M",
-      "previous": "-1.530 M"
-    },
-    {
-      "id": "308727-2026-08-26T14:30:00.000Z-EIA-Gasoline-Production-Change",
-      "title": "EIA Gasoline Production Change",
-      "country": "USD",
-      "date": "2026-08-26T14:30:00.000Z",
-      "impact": "Low",
-      "forecast": "-0.063 M",
-      "previous": "0.143 M"
-    },
-    {
-      "id": "308728-2026-08-26T14:30:00.000Z-EIA-Heating-Oil-Stocks-Change",
-      "title": "EIA Heating Oil Stocks Change",
-      "country": "USD",
-      "date": "2026-08-26T14:30:00.000Z",
-      "impact": "Low",
-      "forecast": "-0.275 M",
-      "previous": "-0.537 M"
-    },
-    {
-      "id": "308729-2026-08-26T14:30:00.000Z-EIA-Gasoline-Stocks-Change",
-      "title": "EIA Gasoline Stocks Change",
-      "country": "USD",
-      "date": "2026-08-26T14:30:00.000Z",
-      "impact": "Low",
-      "forecast": "-0.048 M",
-      "previous": "0.688 M"
-    },
-    {
-      "id": "308730-2026-08-26T14:30:00.000Z-EIA-Refinery-Crude-Oil-Daily-Inputs-Change",
-      "title": "EIA Refinery Crude Oil Daily Inputs Change",
-      "country": "USD",
-      "date": "2026-08-26T14:30:00.000Z",
-      "impact": "Low",
-      "previous": "0.216 M"
-    },
-    {
-      "id": "308731-2026-08-26T14:30:00.000Z-EIA-Refinery-Utilization-Rate-Change",
-      "title": "EIA Refinery Utilization Rate Change",
-      "country": "USD",
-      "date": "2026-08-26T14:30:00.000Z",
-      "impact": "Low",
-      "previous": "1.0%"
-    },
-    {
-      "id": "ff-2026-08-26T15:45:00.000Z-FOMC-Member-Barkin-Speaks",
-      "title": "FOMC Member Barkin Speaks",
-      "country": "USD",
-      "date": "2026-08-26T15:45:00.000Z",
-      "impact": "Medium"
-    },
-    {
-      "id": "301592-2026-08-26T17:00:00.000Z-5-Year-Note-Auction",
-      "title": "5-Year Note Auction",
-      "country": "USD",
-      "date": "2026-08-26T17:00:00.000Z",
-      "impact": "Medium",
-      "previous": "4.408%"
-    },
-    {
-      "id": "291472-2026-08-26T22:00:00.000Z-Jobseekers-Total",
-      "title": "Jobseekers Total",
-      "country": "EUR",
-      "date": "2026-08-26T22:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "3177.0 K",
-      "previous": "3121500.0 K"
-    },
-    {
-      "id": "294599-2026-08-26T23:50:00.000Z-Foreign-Bond-Investment",
-      "title": "Foreign Bond Investment",
-      "country": "JPY",
-      "date": "2026-08-26T23:50:00.000Z",
-      "impact": "Low",
-      "previous": "¥1135.1 B"
-    },
-    {
-      "id": "294612-2026-08-26T23:50:00.000Z-Foreign-Investment-in-Japan-Stocks",
-      "title": "Foreign Investment in Japan Stocks",
-      "country": "JPY",
-      "date": "2026-08-26T23:50:00.000Z",
-      "impact": "Low",
-      "previous": "¥621.2 B"
-    },
-    {
-      "id": "301674-2026-08-27T00:00:00.000Z-Jackson-Hole-Economic-Symposium",
-      "title": "Jackson Hole Economic Symposium",
-      "country": "USD",
-      "date": "2026-08-27T00:00:00.000Z",
-      "impact": "Medium"
-    },
-    {
-      "id": "302086-2026-08-27T01:30:00.000Z-Private-New-Capital-Expenditure-q/q",
-      "title": "Private New Capital Expenditure q/q",
-      "country": "AUD",
-      "date": "2026-08-27T01:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.7%",
-      "previous": "6.5%"
-    },
-    {
-      "id": "302087-2026-08-27T01:30:00.000Z-Building-Capital-Expenditure-q/q",
-      "title": "Building Capital Expenditure q/q",
-      "country": "AUD",
-      "date": "2026-08-27T01:30:00.000Z",
-      "impact": "Low",
-      "forecast": "-1.6%",
-      "previous": "-3.8%"
-    },
-    {
-      "id": "302088-2026-08-27T01:30:00.000Z-Equipment,-Plant-and-Machinery-Capital-Expenditure-q/q",
-      "title": "Equipment, Plant and Machinery Capital Expenditure q/q",
-      "country": "AUD",
-      "date": "2026-08-27T01:30:00.000Z",
-      "impact": "Low",
-      "forecast": "9.6%",
-      "previous": "18.1%"
-    },
-    {
-      "id": "265854-2026-08-27T01:30:00.000Z-RBA-Bulletin",
-      "title": "RBA Bulletin",
-      "country": "AUD",
-      "date": "2026-08-27T01:30:00.000Z",
-      "impact": "Medium"
-    },
-    {
-      "id": "302130-2026-08-27T06:00:00.000Z-GfK-Consumer-Climate",
-      "title": "GfK Consumer Climate",
-      "country": "EUR",
-      "date": "2026-08-27T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "-29.5",
-      "previous": "-29.6"
-    },
-    {
-      "id": "284181-2026-08-27T06:30:00.000Z-Employment-Level",
-      "title": "Employment Level",
-      "country": "CHF",
-      "date": "2026-08-27T06:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "5.540 M",
-      "previous": "5.537 M"
-    },
-    {
-      "id": "300592-2026-08-27T06:45:00.000Z-PPI-m/m",
-      "title": "PPI m/m",
-      "country": "EUR",
-      "date": "2026-08-27T06:45:00.000Z",
-      "impact": "Low",
-      "forecast": "-0.8%",
-      "previous": "-0.2%"
-    },
-    {
-      "id": "278369-2026-08-27T08:00:00.000Z-ECB-M3-Money-Supply-y/y",
-      "title": "ECB M3 Money Supply y/y",
-      "country": "EUR",
-      "date": "2026-08-27T08:00:00.000Z",
-      "impact": "Low",
-      "forecast": "3.7%",
-      "previous": "3.3%"
-    },
-    {
-      "id": "278381-2026-08-27T08:00:00.000Z-ECB-Households-Loans-y/y",
-      "title": "ECB Households Loans y/y",
-      "country": "EUR",
-      "date": "2026-08-27T08:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "2.9%",
-      "previous": "3.0%"
-    },
-    {
-      "id": "278393-2026-08-27T08:00:00.000Z-ECB-Non-Financial-Corporations-Loans-y/y",
-      "title": "ECB Non-Financial Corporations Loans y/y",
-      "country": "EUR",
-      "date": "2026-08-27T08:00:00.000Z",
-      "impact": "Low",
-      "forecast": "3.8%",
-      "previous": "4.0%"
-    },
-    {
-      "id": "278405-2026-08-27T08:00:00.000Z-ECB-Private-Sector-Loans-y/y",
-      "title": "ECB Private Sector Loans y/y",
-      "country": "EUR",
-      "date": "2026-08-27T08:00:00.000Z",
-      "impact": "Low",
-      "forecast": "4.1%",
-      "previous": "3.9%"
-    },
-    {
-      "id": "311966-2026-08-27T09:30:00.000Z-6-Month-BOT-Auction",
-      "title": "6-Month BOT Auction",
-      "country": "EUR",
-      "date": "2026-08-27T09:30:00.000Z",
-      "impact": "Low",
-      "previous": "2.567%"
-    },
-    {
-      "id": "310621-2026-08-27T11:30:00.000Z-ECB-Monetary-Policy-Meeting-Accounts",
-      "title": "ECB Monetary Policy Meeting Accounts",
-      "country": "EUR",
-      "date": "2026-08-27T11:30:00.000Z",
-      "impact": "High"
-    },
-    {
-      "id": "278053-2026-08-27T12:30:00.000Z-Current-Account",
-      "title": "Current Account",
-      "country": "CAD",
-      "date": "2026-08-27T12:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "$-4.065 B",
-      "previous": "$-7.184 B"
-    },
-    {
-      "id": "270230-2026-08-27T12:30:00.000Z-Wholesale-Inventories-m/m",
-      "title": "Wholesale Inventories m/m",
-      "country": "USD",
-      "date": "2026-08-27T12:30:00.000Z",
-      "impact": "Low",
-      "forecast": "0.0%",
-      "previous": "0.2%"
-    },
-    {
-      "id": "270390-2026-08-27T12:30:00.000Z-Goods-Trade-Balance",
-      "title": "Goods Trade Balance",
-      "country": "USD",
-      "date": "2026-08-27T12:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "$-104.172 B",
-      "previous": "$-101.461 B"
-    },
-    {
-      "id": "270506-2026-08-27T12:30:00.000Z-Retail-Inventories-m/m",
-      "title": "Retail Inventories m/m",
-      "country": "USD",
-      "date": "2026-08-27T12:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "-0.1%",
-      "previous": "-0.2%"
-    },
-    {
-      "id": "270530-2026-08-27T12:30:00.000Z-Retail-Inventories-excl.-Autos-m/m",
-      "title": "Retail Inventories excl. Autos m/m",
-      "country": "USD",
-      "date": "2026-08-27T12:30:00.000Z",
-      "impact": "Medium",
-      "previous": "-0.4%"
-    },
-    {
-      "id": "309704-2026-08-27T12:30:00.000Z-Initial-Jobless-Claims",
-      "title": "Initial Jobless Claims",
-      "country": "USD",
-      "date": "2026-08-27T12:30:00.000Z",
-      "impact": "High",
-      "forecast": "216 K",
-      "previous": "206 K"
-    },
-    {
-      "id": "309708-2026-08-27T12:30:00.000Z-Continuing-Jobless-Claims",
-      "title": "Continuing Jobless Claims",
-      "country": "USD",
-      "date": "2026-08-27T12:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "1.790 M",
-      "previous": "1.799 M"
-    },
-    {
-      "id": "309712-2026-08-27T12:30:00.000Z-Initial-Jobless-Claims-4-Week-Average",
-      "title": "Initial Jobless Claims 4-Week Average",
-      "country": "USD",
-      "date": "2026-08-27T12:30:00.000Z",
-      "impact": "Low",
-      "forecast": "208.459 K",
-      "previous": "204.000 K"
-    },
-    {
-      "id": "308866-2026-08-27T14:30:00.000Z-EIA-Natural-Gas-Storage-Change",
-      "title": "EIA Natural Gas Storage Change",
-      "country": "USD",
-      "date": "2026-08-27T14:30:00.000Z",
-      "impact": "Low",
-      "forecast": "2 B",
-      "previous": "16 B"
-    },
-    {
-      "id": "272126-2026-08-27T15:00:00.000Z-Kansas-City-Fed-Manufacturing-Composite-Index",
-      "title": "Kansas City Fed Manufacturing Composite Index",
-      "country": "USD",
-      "date": "2026-08-27T15:00:00.000Z",
-      "impact": "Low",
-      "forecast": "7",
-      "previous": "9"
-    },
-    {
-      "id": "272138-2026-08-27T15:00:00.000Z-Kansas-City-Fed-Manufacturing-Production",
-      "title": "Kansas City Fed Manufacturing Production",
-      "country": "USD",
-      "date": "2026-08-27T15:00:00.000Z",
-      "impact": "Low",
-      "forecast": "21",
-      "previous": "17"
-    },
-    {
-      "id": "301595-2026-08-27T17:00:00.000Z-7-Year-Note-Auction",
-      "title": "7-Year Note Auction",
-      "country": "USD",
-      "date": "2026-08-27T17:00:00.000Z",
-      "impact": "Medium",
-      "previous": "4.473%"
-    },
-    {
-      "id": "285013-2026-08-27T23:30:00.000Z-Tokyo-CPI-y/y",
-      "title": "Tokyo CPI y/y",
-      "country": "JPY",
-      "date": "2026-08-27T23:30:00.000Z",
-      "impact": "Low",
-      "forecast": "2.0%",
-      "previous": "2.0%"
-    },
-    {
-      "id": "285025-2026-08-27T23:30:00.000Z-Tokyo-CPI-excl.-Food-and-Energy-y/y",
-      "title": "Tokyo CPI excl. Food and Energy y/y",
-      "country": "JPY",
-      "date": "2026-08-27T23:30:00.000Z",
-      "impact": "High",
-      "forecast": "2.0%",
-      "previous": "2.0%"
-    },
-    {
-      "id": "285037-2026-08-27T23:30:00.000Z-Tokyo-Core-CPI-y/y",
-      "title": "Tokyo Core CPI y/y",
-      "country": "JPY",
-      "date": "2026-08-27T23:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "2.2%",
-      "previous": "1.9%"
-    },
-    {
-      "id": "285738-2026-08-27T23:30:00.000Z-Unemployment-Rate",
-      "title": "Unemployment Rate",
-      "country": "JPY",
-      "date": "2026-08-27T23:30:00.000Z",
-      "impact": "Low",
-      "forecast": "2.5%",
-      "previous": "2.5%"
-    },
-    {
-      "id": "285061-2026-08-27T23:30:00.000Z-Tokyo-CPI-s.a.-m/m",
-      "title": "Tokyo CPI s.a. m/m",
-      "country": "JPY",
-      "date": "2026-08-27T23:30:00.000Z",
-      "impact": "Low",
-      "previous": "0.4%"
-    },
-    {
-      "id": "285753-2026-08-27T23:30:00.000Z-Jobs-to-Applicants-Ratio",
-      "title": "Jobs to Applicants Ratio",
-      "country": "JPY",
-      "date": "2026-08-27T23:30:00.000Z",
-      "impact": "Low",
-      "forecast": "1.17",
-      "previous": "1.18"
-    },
-    {
-      "id": "301675-2026-08-28T00:00:00.000Z-Jackson-Hole-Economic-Symposium",
-      "title": "Jackson Hole Economic Symposium",
-      "country": "USD",
-      "date": "2026-08-28T00:00:00.000Z",
-      "impact": "Medium"
-    },
-    {
-      "id": "309600-2026-08-28T06:00:00.000Z-Nationwide-HPI-m/m",
-      "title": "Nationwide HPI m/m",
-      "country": "GBP",
-      "date": "2026-08-28T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.2%",
-      "previous": "0.1%"
-    },
-    {
-      "id": "309601-2026-08-28T06:00:00.000Z-Nationwide-HPI-y/y",
-      "title": "Nationwide HPI y/y",
-      "country": "GBP",
-      "date": "2026-08-28T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "1.8%",
-      "previous": "1.8%"
-    },
-    {
-      "id": "300580-2026-08-28T06:45:00.000Z-CPI-m/m",
-      "title": "CPI m/m",
-      "country": "EUR",
-      "date": "2026-08-28T06:45:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.3%",
-      "previous": "0.6%"
-    },
-    {
-      "id": "300582-2026-08-28T06:45:00.000Z-CPI-y/y",
-      "title": "CPI y/y",
-      "country": "EUR",
-      "date": "2026-08-28T06:45:00.000Z",
-      "impact": "Low",
-      "forecast": "2.3%",
-      "previous": "2.1%"
-    },
-    {
-      "id": "300584-2026-08-28T06:45:00.000Z-HICP-m/m",
-      "title": "HICP m/m",
-      "country": "EUR",
-      "date": "2026-08-28T06:45:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.2%",
-      "previous": "0.6%"
-    },
-    {
-      "id": "300586-2026-08-28T06:45:00.000Z-HICP-y/y",
-      "title": "HICP y/y",
-      "country": "EUR",
-      "date": "2026-08-28T06:45:00.000Z",
-      "impact": "Low",
-      "forecast": "2.5%",
-      "previous": "2.4%"
-    },
-    {
-      "id": "300587-2026-08-28T06:45:00.000Z-GDP-q/q",
-      "title": "GDP q/q",
-      "country": "EUR",
-      "date": "2026-08-28T06:45:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.2%",
-      "previous": "0.2%"
-    },
-    {
-      "id": "300588-2026-08-28T06:45:00.000Z-GDP-y/y",
-      "title": "GDP y/y",
-      "country": "EUR",
-      "date": "2026-08-28T06:45:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.7%",
-      "previous": "0.7%"
-    },
-    {
-      "id": "300590-2026-08-28T06:45:00.000Z-Consumer-Spending-m/m",
-      "title": "Consumer Spending m/m",
-      "country": "EUR",
-      "date": "2026-08-28T06:45:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.0%",
-      "previous": "0.4%"
-    },
-    {
-      "id": "282152-2026-08-28T07:00:00.000Z-CPI-m/m",
-      "title": "CPI m/m",
-      "country": "EUR",
-      "date": "2026-08-28T07:00:00.000Z",
-      "impact": "Low"
-    },
-    {
-      "id": "282175-2026-08-28T07:00:00.000Z-CPI-y/y",
-      "title": "CPI y/y",
-      "country": "EUR",
-      "date": "2026-08-28T07:00:00.000Z",
-      "impact": "Medium"
-    },
-    {
-      "id": "282198-2026-08-28T07:00:00.000Z-HICP-m/m",
-      "title": "HICP m/m",
-      "country": "EUR",
-      "date": "2026-08-28T07:00:00.000Z",
-      "impact": "Low"
-    },
-    {
-      "id": "282221-2026-08-28T07:00:00.000Z-HICP-y/y",
-      "title": "HICP y/y",
-      "country": "EUR",
-      "date": "2026-08-28T07:00:00.000Z",
-      "impact": "Medium"
-    },
-    {
-      "id": "282269-2026-08-28T07:00:00.000Z-Retail-Sales-y/y",
-      "title": "Retail Sales y/y",
-      "country": "EUR",
-      "date": "2026-08-28T07:00:00.000Z",
-      "impact": "Low",
-      "forecast": "0.9%",
-      "previous": "0.5%"
-    },
-    {
-      "id": "274264-2026-08-28T07:00:00.000Z-KOF-Economic-Barometer",
-      "title": "KOF Economic Barometer",
-      "country": "CHF",
-      "date": "2026-08-28T07:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "100.5",
-      "previous": "103.5"
-    },
-    {
-      "id": "229135-2026-08-28T07:55:00.000Z-Unemployment-Change",
-      "title": "Unemployment Change",
-      "country": "EUR",
-      "date": "2026-08-28T07:55:00.000Z",
-      "impact": "Medium",
-      "forecast": "1 K",
-      "previous": "6 K"
-    },
-    {
-      "id": "229159-2026-08-28T07:55:00.000Z-Unemployment-Rate",
-      "title": "Unemployment Rate",
-      "country": "EUR",
-      "date": "2026-08-28T07:55:00.000Z",
-      "impact": "Medium",
-      "forecast": "6.3%",
-      "previous": "6.4%"
-    },
-    {
-      "id": "229183-2026-08-28T07:55:00.000Z-Unemployment-n.s.a.",
-      "title": "Unemployment n.s.a.",
-      "country": "EUR",
-      "date": "2026-08-28T07:55:00.000Z",
-      "impact": "Low",
-      "forecast": "3.078 M",
-      "previous": "3.007 M"
-    },
-    {
-      "id": "229207-2026-08-28T07:55:00.000Z-Unemployment",
-      "title": "Unemployment",
-      "country": "EUR",
-      "date": "2026-08-28T07:55:00.000Z",
-      "impact": "Medium",
-      "forecast": "2.991 M",
-      "previous": "2.993 M"
-    },
-    {
-      "id": "307793-2026-08-28T08:00:00.000Z-Industrial-Sales-m/m",
-      "title": "Industrial Sales m/m",
-      "country": "EUR",
-      "date": "2026-08-28T08:00:00.000Z",
-      "impact": "Low",
-      "forecast": "-0.7%",
-      "previous": "0.6%"
-    },
-    {
-      "id": "307794-2026-08-28T08:00:00.000Z-Industrial-Sales-y/y",
-      "title": "Industrial Sales  y/y",
-      "country": "EUR",
-      "date": "2026-08-28T08:00:00.000Z",
-      "impact": "Low",
-      "forecast": "2.0%",
-      "previous": "5.3%"
-    },
-    {
-      "id": "281592-2026-08-28T09:00:00.000Z-Business-Confidence",
-      "title": "Business Confidence",
-      "country": "EUR",
-      "date": "2026-08-28T09:00:00.000Z",
-      "impact": "Low",
-      "forecast": "88.0",
-      "previous": "89.6"
-    },
-    {
-      "id": "281604-2026-08-28T09:00:00.000Z-Consumer-Confidence",
-      "title": "Consumer Confidence",
-      "country": "EUR",
-      "date": "2026-08-28T09:00:00.000Z",
-      "impact": "Low",
-      "forecast": "94.4",
-      "previous": "94.2"
-    },
-    {
-      "id": "283286-2026-08-28T09:00:00.000Z-Business-Climate-Indicator",
-      "title": "Business Climate Indicator",
-      "country": "EUR",
-      "date": "2026-08-28T09:00:00.000Z",
-      "impact": "Low",
-      "forecast": "-0.19",
-      "previous": "-0.19"
-    },
-    {
-      "id": "283298-2026-08-28T09:00:00.000Z-Industrial-Confidence-Indicator",
-      "title": "Industrial Confidence Indicator",
-      "country": "EUR",
-      "date": "2026-08-28T09:00:00.000Z",
-      "impact": "Low",
-      "forecast": "-6.8",
-      "previous": "-6.1"
-    },
-    {
-      "id": "283310-2026-08-28T09:00:00.000Z-Services-Sentiment-Indicator",
-      "title": "Services Sentiment Indicator",
-      "country": "EUR",
-      "date": "2026-08-28T09:00:00.000Z",
-      "impact": "Low",
-      "forecast": "4.0",
-      "previous": "4.7"
-    },
-    {
-      "id": "283322-2026-08-28T09:00:00.000Z-Economic-Sentiment-Indicator",
-      "title": "Economic Sentiment Indicator",
-      "country": "EUR",
-      "date": "2026-08-28T09:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "96.9",
-      "previous": "96.9"
-    },
-    {
-      "id": "283342-2026-08-28T09:00:00.000Z-Consumer-Confidence-Index",
-      "title": "Consumer Confidence Index",
-      "country": "EUR",
-      "date": "2026-08-28T09:00:00.000Z",
-      "impact": "Low",
-      "forecast": "-15.5",
-      "previous": "-15.5"
-    },
-    {
-      "id": "283358-2026-08-28T09:00:00.000Z-Consumer-Price-Expectations",
-      "title": "Consumer Price Expectations",
-      "country": "EUR",
-      "date": "2026-08-28T09:00:00.000Z",
-      "impact": "High",
-      "forecast": "24.4",
-      "previous": "30.3"
-    },
-    {
-      "id": "283370-2026-08-28T09:00:00.000Z-Industry-Selling-Price-Expectations",
-      "title": "Industry Selling Price Expectations",
-      "country": "EUR",
-      "date": "2026-08-28T09:00:00.000Z",
-      "impact": "Low",
-      "forecast": "12.1",
-      "previous": "17.7"
-    },
-    {
-      "id": "311970-2026-08-28T09:30:00.000Z-5-Year-BTP-Auction",
-      "title": "5-Year BTP Auction",
-      "country": "EUR",
-      "date": "2026-08-28T09:30:00.000Z",
-      "impact": "Low",
-      "previous": "3.39%"
-    },
-    {
-      "id": "311972-2026-08-28T09:30:00.000Z-10-Year-BTP-Auction",
-      "title": "10-Year BTP Auction",
-      "country": "EUR",
-      "date": "2026-08-28T09:30:00.000Z",
-      "impact": "Low",
-      "previous": "4.00%"
-    },
-    {
-      "id": "306660-2026-08-28T12:30:00.000Z-GDP-m/m",
-      "title": "GDP m/m",
-      "country": "CAD",
-      "date": "2026-08-28T12:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.1%",
-      "previous": "0.3%"
-    },
-    {
-      "id": "278184-2026-08-28T12:30:00.000Z-GDP-q/q",
-      "title": "GDP q/q",
-      "country": "CAD",
-      "date": "2026-08-28T12:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.0%",
-      "previous": "0.0%"
-    },
-    {
-      "id": "278188-2026-08-28T12:30:00.000Z-GDP-Implicit-Price-Index-q/q",
-      "title": "GDP Implicit Price Index q/q",
-      "country": "CAD",
-      "date": "2026-08-28T12:30:00.000Z",
-      "impact": "Low",
-      "forecast": "0.7%",
-      "previous": "1.1%"
-    },
-    {
-      "id": "306667-2026-08-28T12:30:00.000Z-GDP-y/y",
-      "title": "GDP y/y",
-      "country": "CAD",
-      "date": "2026-08-28T12:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "1.2%",
-      "previous": "1.7%"
-    },
-    {
-      "id": "278305-2026-08-28T12:30:00.000Z-GDP-Annualized-q/q",
-      "title": "GDP Annualized q/q",
-      "country": "CAD",
-      "date": "2026-08-28T12:30:00.000Z",
-      "impact": "Medium",
-      "forecast": "0.7%",
-      "previous": "-0.1%"
-    },
-    {
-      "id": "268712-2026-08-28T14:00:00.000Z-Michigan-Consumer-Sentiment",
-      "title": "Michigan Consumer Sentiment",
-      "country": "USD",
-      "date": "2026-08-28T14:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "51.0",
-      "previous": "51.0"
-    },
-    {
-      "id": "268736-2026-08-28T14:00:00.000Z-Michigan-Consumer-Expectations",
-      "title": "Michigan Consumer Expectations",
-      "country": "USD",
-      "date": "2026-08-28T14:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "50.6",
-      "previous": "50.6"
-    },
-    {
-      "id": "268760-2026-08-28T14:00:00.000Z-Michigan-Current-Conditions",
-      "title": "Michigan Current Conditions",
-      "country": "USD",
-      "date": "2026-08-28T14:00:00.000Z",
-      "impact": "Low",
-      "forecast": "51.8",
-      "previous": "51.8"
-    },
-    {
-      "id": "268784-2026-08-28T14:00:00.000Z-Michigan-Inflation-Expectations",
-      "title": "Michigan Inflation Expectations",
-      "country": "USD",
-      "date": "2026-08-28T14:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "4.3%",
-      "previous": "4.3%"
-    },
-    {
-      "id": "268808-2026-08-28T14:00:00.000Z-Michigan-5-Year-Inflation-Expectations",
-      "title": "Michigan 5-Year Inflation Expectations",
-      "country": "USD",
-      "date": "2026-08-28T14:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "3.3%",
-      "previous": "3.3%"
-    },
-    {
-      "id": "ff-2026-08-28T14:00:00.000Z-Fed-Chairman-Warsh-Speaks",
-      "title": "Fed Chairman Warsh Speaks",
-      "country": "USD",
-      "date": "2026-08-28T14:00:00.000Z",
-      "impact": "High"
-    },
-    {
-      "id": "267446-2026-08-28T15:00:00.000Z-Budget-Balance",
-      "title": "Budget Balance",
-      "country": "CAD",
-      "date": "2026-08-28T15:00:00.000Z",
-      "impact": "Low",
-      "forecast": "$-1.373 B",
-      "previous": "$-0.313 B"
-    },
-    {
-      "id": "267457-2026-08-28T15:00:00.000Z-Budget-Balance,-Fiscal-Year",
-      "title": "Budget Balance, Fiscal Year",
-      "country": "CAD",
-      "date": "2026-08-28T15:00:00.000Z",
-      "impact": "Low",
-      "forecast": "$-17.633 B",
-      "previous": "$-1.359 B"
-    },
-    {
-      "id": "316031-2026-08-28T15:55:00.000Z-ECB-Executive-Board-Member-Schnabel-Speech",
-      "title": "ECB Executive Board Member Schnabel Speech",
-      "country": "EUR",
-      "date": "2026-08-28T15:55:00.000Z",
-      "impact": "Medium"
-    },
-    {
-      "id": "310705-2026-08-28T17:00:00.000Z-Baker-Hughes-US-Oil-Rig-Count",
-      "title": "Baker Hughes US Oil Rig Count",
-      "country": "USD",
-      "date": "2026-08-28T17:00:00.000Z",
-      "impact": "Medium",
-      "previous": "452"
-    },
-    {
-      "id": "310706-2026-08-28T17:00:00.000Z-Baker-Hughes-US-Total-Rig-Count",
-      "title": "Baker Hughes US Total Rig Count",
-      "country": "USD",
-      "date": "2026-08-28T17:00:00.000Z",
-      "impact": "Medium",
-      "previous": "588"
-    },
-    {
-      "id": "287363-2026-08-28T19:30:00.000Z-CFTC-AUD-Non-Commercial-Net-Positions",
-      "title": "CFTC AUD Non-Commercial Net Positions",
-      "country": "AUD",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Medium",
-      "previous": "-44.2 K"
-    },
-    {
-      "id": "287457-2026-08-28T19:30:00.000Z-CFTC-CAD-Non-Commercial-Net-Positions",
-      "title": "CFTC CAD Non-Commercial Net Positions",
-      "country": "CAD",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Low",
-      "previous": "-158.2 K"
-    },
-    {
-      "id": "287504-2026-08-28T19:30:00.000Z-CFTC-JPY-Non-Commercial-Net-Positions",
-      "title": "CFTC JPY Non-Commercial Net Positions",
-      "country": "JPY",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Medium",
-      "previous": "-52.9 K"
-    },
-    {
-      "id": "287598-2026-08-28T19:30:00.000Z-CFTC-NZD-Non-Commercial-Net-Positions",
-      "title": "CFTC NZD Non-Commercial Net Positions",
-      "country": "NZD",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Low",
-      "previous": "-32.6 K"
-    },
-    {
-      "id": "287692-2026-08-28T19:30:00.000Z-CFTC-CHF-Non-Commercial-Net-Positions",
-      "title": "CFTC CHF Non-Commercial Net Positions",
-      "country": "CHF",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Low",
-      "previous": "-27.3 K"
-    },
-    {
-      "id": "287739-2026-08-28T19:30:00.000Z-CFTC-GBP-Non-Commercial-Net-Positions",
-      "title": "CFTC GBP Non-Commercial Net Positions",
-      "country": "GBP",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Medium",
-      "previous": "-54.6 K"
-    },
-    {
-      "id": "287786-2026-08-28T19:30:00.000Z-CFTC-Copper-Non-Commercial-Net-Positions",
-      "title": "CFTC Copper Non-Commercial Net Positions",
-      "country": "USD",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Low",
-      "previous": "79.7 K"
-    },
-    {
-      "id": "287833-2026-08-28T19:30:00.000Z-CFTC-Silver-Non-Commercial-Net-Positions",
-      "title": "CFTC Silver Non-Commercial Net Positions",
-      "country": "USD",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Low",
-      "previous": "23.6 K"
-    },
-    {
-      "id": "287880-2026-08-28T19:30:00.000Z-CFTC-Gold-Non-Commercial-Net-Positions",
-      "title": "CFTC Gold Non-Commercial Net Positions",
-      "country": "USD",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Medium",
-      "previous": "222.2 K"
-    },
-    {
-      "id": "287927-2026-08-28T19:30:00.000Z-CFTC-Crude-Oil-Non-Commercial-Net-Positions",
-      "title": "CFTC Crude Oil Non-Commercial Net Positions",
-      "country": "USD",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Medium",
-      "previous": "122.1 K"
-    },
-    {
-      "id": "287974-2026-08-28T19:30:00.000Z-CFTC-S&P-500-Non-Commercial-Net-Positions",
-      "title": "CFTC S&P 500 Non-Commercial Net Positions",
-      "country": "USD",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Medium",
-      "previous": "-10.6 K"
-    },
-    {
-      "id": "288021-2026-08-28T19:30:00.000Z-CFTC-Aluminium-Non-Commercial-Net-Positions",
-      "title": "CFTC Aluminium Non-Commercial Net Positions",
-      "country": "USD",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Low",
-      "previous": "-0.5 K"
-    },
-    {
-      "id": "288068-2026-08-28T19:30:00.000Z-CFTC-Corn-Non-Commercial-Net-Positions",
-      "title": "CFTC Corn Non-Commercial Net Positions",
-      "country": "USD",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Low",
-      "previous": "302.1 K"
-    },
-    {
-      "id": "288115-2026-08-28T19:30:00.000Z-CFTC-Natural-Gas-Non-Commercial-Net-Positions",
-      "title": "CFTC Natural Gas Non-Commercial Net Positions",
-      "country": "USD",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Low",
-      "previous": "-203.5 K"
-    },
-    {
-      "id": "288162-2026-08-28T19:30:00.000Z-CFTC-Soybeans-Non-Commercial-Net-Positions",
-      "title": "CFTC Soybeans Non-Commercial Net Positions",
-      "country": "USD",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Low",
-      "previous": "191.0 K"
-    },
-    {
-      "id": "288209-2026-08-28T19:30:00.000Z-CFTC-Wheat-Non-Commercial-Net-Positions",
-      "title": "CFTC Wheat Non-Commercial Net Positions",
-      "country": "USD",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Low",
-      "previous": "-18.8 K"
-    },
-    {
-      "id": "288256-2026-08-28T19:30:00.000Z-CFTC-Nasdaq-100-Non-Commercial-Net-Positions",
-      "title": "CFTC Nasdaq 100 Non-Commercial Net Positions",
-      "country": "USD",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Medium",
-      "previous": "-10.4 K"
-    },
-    {
-      "id": "288303-2026-08-28T19:30:00.000Z-CFTC-EUR-Non-Commercial-Net-Positions",
-      "title": "CFTC EUR Non-Commercial Net Positions",
-      "country": "EUR",
-      "date": "2026-08-28T19:30:00.000Z",
-      "impact": "Medium",
-      "previous": "-59.1 K"
-    },
     {
       "id": "301676-2026-08-29T00:00:00.000Z-Jackson-Hole-Economic-Symposium",
       "title": "Jackson Hole Economic Symposium",
@@ -1566,7 +17,7 @@
       "date": "2026-08-30T23:50:00.000Z",
       "impact": "High",
       "forecast": "-0.6%",
-      "previous": "-4.1%"
+      "previous": "-3.9%"
     },
     {
       "id": "289117-2026-08-30T23:50:00.000Z-Retail-Sales-y/y",
@@ -1575,7 +26,7 @@
       "date": "2026-08-30T23:50:00.000Z",
       "impact": "Low",
       "forecast": "3.6%",
-      "previous": "0.5%"
+      "previous": "0.6%"
     },
     {
       "id": "289129-2026-08-30T23:50:00.000Z-Large-Retailer's-Sales-y/y",
@@ -1652,7 +103,7 @@
       "date": "2026-08-31T01:30:00.000Z",
       "impact": "Low",
       "forecast": "0.2%",
-      "previous": "0.5%"
+      "previous": "0.7%"
     },
     {
       "id": "302082-2026-08-31T01:30:00.000Z-Company-Gross-Operating-Profits-q/q",
@@ -1661,7 +112,7 @@
       "date": "2026-08-31T01:30:00.000Z",
       "impact": "Medium",
       "forecast": "-2.7%",
-      "previous": "-1.3%"
+      "previous": "-1.5%"
     },
     {
       "id": "302083-2026-08-31T01:30:00.000Z-Company-Profits-Before-Income-Tax-q/q",
@@ -1669,7 +120,7 @@
       "country": "AUD",
       "date": "2026-08-31T01:30:00.000Z",
       "impact": "Low",
-      "previous": "-4.1%"
+      "previous": "-3.4%"
     },
     {
       "id": "300860-2026-08-31T01:30:00.000Z-RBA-Housing-Credit-m/m",
@@ -1698,26 +149,62 @@
       "previous": "€1.840 B"
     },
     {
-      "id": "309612-2026-08-31T12:50:00.000Z-3-Month-BTF-Auction",
+      "id": "317194-2026-08-31T12:00:00.000Z-CPI-m/m",
+      "title": "CPI m/m",
+      "country": "EUR",
+      "date": "2026-08-31T12:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "-0.2%",
+      "previous": "-0.2%"
+    },
+    {
+      "id": "317196-2026-08-31T12:00:00.000Z-CPI-y/y",
+      "title": "CPI y/y",
+      "country": "EUR",
+      "date": "2026-08-31T12:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "2.2%",
+      "previous": "2.6%"
+    },
+    {
+      "id": "317198-2026-08-31T12:00:00.000Z-HICP-m/m",
+      "title": "HICP m/m",
+      "country": "EUR",
+      "date": "2026-08-31T12:00:00.000Z",
+      "impact": "Low",
+      "forecast": "-0.3%",
+      "previous": "-0.1%"
+    },
+    {
+      "id": "317200-2026-08-31T12:00:00.000Z-HICP-y/y",
+      "title": "HICP y/y",
+      "country": "EUR",
+      "date": "2026-08-31T12:00:00.000Z",
+      "impact": "Low",
+      "forecast": "2.3%",
+      "previous": "2.7%"
+    },
+    {
+      "id": "309612-2026-08-31T12:56:00.000Z-3-Month-BTF-Auction",
       "title": "3-Month BTF Auction",
       "country": "EUR",
-      "date": "2026-08-31T12:50:00.000Z",
+      "date": "2026-08-31T12:56:00.000Z",
       "impact": "Low",
       "previous": "2.502%"
     },
     {
-      "id": "309617-2026-08-31T12:50:00.000Z-6-Month-BTF-Auction",
+      "id": "309617-2026-08-31T12:56:00.000Z-6-Month-BTF-Auction",
       "title": "6-Month BTF Auction",
       "country": "EUR",
-      "date": "2026-08-31T12:50:00.000Z",
+      "date": "2026-08-31T12:56:00.000Z",
       "impact": "Low",
       "previous": "2.675%"
     },
     {
-      "id": "309622-2026-08-31T12:50:00.000Z-12-Month-BTF-Auction",
+      "id": "309622-2026-08-31T12:56:00.000Z-12-Month-BTF-Auction",
       "title": "12-Month BTF Auction",
       "country": "EUR",
-      "date": "2026-08-31T12:50:00.000Z",
+      "date": "2026-08-31T12:56:00.000Z",
       "impact": "Low",
       "previous": "2.832%"
     },
@@ -1826,6 +313,51 @@
       "previous": "2.840%"
     },
     {
+      "id": "317093-2026-09-01T05:00:00.000Z-Consumer-Confidence-Index",
+      "title": "Consumer Confidence Index",
+      "country": "JPY",
+      "date": "2026-09-01T05:00:00.000Z",
+      "impact": "Low",
+      "forecast": "36.8",
+      "previous": "37.2"
+    },
+    {
+      "id": "317190-2026-09-01T06:00:00.000Z-Retail-Sales-m/m",
+      "title": "Retail Sales m/m",
+      "country": "EUR",
+      "date": "2026-09-01T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "-0.4%",
+      "previous": "-0.3%"
+    },
+    {
+      "id": "317191-2026-09-01T06:00:00.000Z-Retail-Sales-y/y",
+      "title": "Retail Sales y/y",
+      "country": "EUR",
+      "date": "2026-09-01T06:00:00.000Z",
+      "impact": "Low",
+      "forecast": "0.7%",
+      "previous": "-0.2%"
+    },
+    {
+      "id": "316755-2026-09-01T06:00:00.000Z-Nationwide-HPI-m/m",
+      "title": "Nationwide HPI m/m",
+      "country": "GBP",
+      "date": "2026-09-01T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "0.2%",
+      "previous": "0.1%"
+    },
+    {
+      "id": "316756-2026-09-01T06:00:00.000Z-Nationwide-HPI-y/y",
+      "title": "Nationwide HPI y/y",
+      "country": "GBP",
+      "date": "2026-09-01T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "1.8%",
+      "previous": "1.8%"
+    },
+    {
       "id": "306546-2026-09-01T06:30:00.000Z-RBA-Index-of-Commodity-Prices-y/y",
       "title": "RBA Index of Commodity Prices y/y",
       "country": "AUD",
@@ -1833,6 +365,13 @@
       "impact": "Low",
       "forecast": "15.5%",
       "previous": "15.4%"
+    },
+    {
+      "id": "316732-2026-09-01T06:30:00.000Z-Bbk-Executive-Board-Member-Mauderer-Speech",
+      "title": "Bbk Executive Board Member Mauderer Speech",
+      "country": "EUR",
+      "date": "2026-09-01T06:30:00.000Z",
+      "impact": "Medium"
     },
     {
       "id": "314062-2026-09-01T06:30:00.000Z-Retail-Sales-y/y",
@@ -2134,6 +673,20 @@
       "previous": "2.93%"
     },
     {
+      "id": "316679-2026-09-01T13:05:00.000Z-Fed-Vice-Chair-for-Supervision-Barr-Speech",
+      "title": "Fed Vice Chair for Supervision Barr Speech",
+      "country": "USD",
+      "date": "2026-09-01T13:05:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "ff-2026-09-01T13:05:00.000Z-FOMC-Member-Barr-Speaks",
+      "title": "FOMC Member Barr Speaks",
+      "country": "USD",
+      "date": "2026-09-01T13:05:00.000Z",
+      "impact": "Medium"
+    },
+    {
       "id": "313660-2026-09-01T13:30:00.000Z-S&P-Global-Manufacturing-PMI",
       "title": "S&P Global Manufacturing PMI",
       "country": "CAD",
@@ -2299,6 +852,1767 @@
       "previous": "-13.8%"
     },
     {
+      "id": "302101-2026-09-02T01:30:00.000Z-GDP-q/q",
+      "title": "GDP q/q",
+      "country": "AUD",
+      "date": "2026-09-02T01:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "0.5%",
+      "previous": "0.3%"
+    },
+    {
+      "id": "302102-2026-09-02T01:30:00.000Z-GDP-y/y",
+      "title": "GDP y/y",
+      "country": "AUD",
+      "date": "2026-09-02T01:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "-21.5%",
+      "previous": "2.5%"
+    },
+    {
+      "id": "302103-2026-09-02T01:30:00.000Z-Gross-Fixed-Capital-Formation-q/q",
+      "title": "Gross Fixed Capital Formation q/q",
+      "country": "AUD",
+      "date": "2026-09-02T01:30:00.000Z",
+      "impact": "Low",
+      "forecast": "0.0%",
+      "previous": "3.0%"
+    },
+    {
+      "id": "302104-2026-09-02T01:30:00.000Z-GDP-Chain-Price-Index-q/q",
+      "title": "GDP Chain Price Index q/q",
+      "country": "AUD",
+      "date": "2026-09-02T01:30:00.000Z",
+      "impact": "Low",
+      "forecast": "-5.0%",
+      "previous": "-6.6%"
+    },
+    {
+      "id": "302105-2026-09-02T01:30:00.000Z-Final-Consumption-Expenditure-q/q",
+      "title": "Final Consumption Expenditure q/q",
+      "country": "AUD",
+      "date": "2026-09-02T01:30:00.000Z",
+      "impact": "Low",
+      "forecast": "0.4%",
+      "previous": "0.3%"
+    },
+    {
+      "id": "314375-2026-09-02T01:30:00.000Z-BoJ-Board-Member-Takata-Speech",
+      "title": "BoJ Board Member Takata Speech",
+      "country": "JPY",
+      "date": "2026-09-02T01:30:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "310469-2026-09-02T02:00:00.000Z-RBNZ-Rate-Statement",
+      "title": "RBNZ Rate Statement",
+      "country": "NZD",
+      "date": "2026-09-02T02:00:00.000Z",
+      "impact": "High"
+    },
+    {
+      "id": "310470-2026-09-02T02:00:00.000Z-RBNZ-Interest-Rate-Decision",
+      "title": "RBNZ Interest Rate Decision",
+      "country": "NZD",
+      "date": "2026-09-02T02:00:00.000Z",
+      "impact": "High",
+      "previous": "2.50%"
+    },
+    {
+      "id": "ff-2026-09-02T03:00:00.000Z-RBNZ-Press-Conference",
+      "title": "RBNZ Press Conference",
+      "country": "NZD",
+      "date": "2026-09-02T03:00:00.000Z",
+      "impact": "High"
+    },
+    {
+      "id": "309919-2026-09-02T06:45:00.000Z-Government-Budget-Balance",
+      "title": "Government Budget Balance",
+      "country": "EUR",
+      "date": "2026-09-02T06:45:00.000Z",
+      "impact": "Low",
+      "previous": "€-106.8 B"
+    },
+    {
+      "id": "286727-2026-09-02T07:00:00.000Z-Unemployment-Change",
+      "title": "Unemployment Change",
+      "country": "EUR",
+      "date": "2026-09-02T07:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "-9.221 K",
+      "previous": "19.517 K"
+    },
+    {
+      "id": "281568-2026-09-02T08:00:00.000Z-PPI-m/m",
+      "title": "PPI m/m",
+      "country": "EUR",
+      "date": "2026-09-02T08:00:00.000Z",
+      "impact": "Low",
+      "forecast": "0.0%",
+      "previous": "0.0%"
+    },
+    {
+      "id": "281580-2026-09-02T08:00:00.000Z-PPI-y/y",
+      "title": "PPI y/y",
+      "country": "EUR",
+      "date": "2026-09-02T08:00:00.000Z",
+      "impact": "Low",
+      "forecast": "6.6%",
+      "previous": "5.8%"
+    },
+    {
+      "id": "274877-2026-09-02T12:15:00.000Z-ADP-Nonfarm-Employment-Change",
+      "title": "ADP Nonfarm Employment Change",
+      "country": "USD",
+      "date": "2026-09-02T12:15:00.000Z",
+      "impact": "High",
+      "forecast": "14 K",
+      "previous": "44 K"
+    },
+    {
+      "id": "265239-2026-09-02T13:45:00.000Z-BoC-Interest-Rate-Decision",
+      "title": "BoC Interest Rate Decision",
+      "country": "CAD",
+      "date": "2026-09-02T13:45:00.000Z",
+      "impact": "High",
+      "previous": "2.00%"
+    },
+    {
+      "id": "265247-2026-09-02T13:45:00.000Z-BoC-Rate-Statement",
+      "title": "BoC Rate Statement",
+      "country": "CAD",
+      "date": "2026-09-02T13:45:00.000Z",
+      "impact": "High"
+    },
+    {
+      "id": "270187-2026-09-02T14:00:00.000Z-Factory-Orders-m/m",
+      "title": "Factory Orders m/m",
+      "country": "USD",
+      "date": "2026-09-02T14:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "-0.1%",
+      "previous": "-0.3%"
+    },
+    {
+      "id": "270403-2026-09-02T14:00:00.000Z-Factory-Orders-excl.-Transportation-m/m",
+      "title": "Factory Orders excl. Transportation m/m",
+      "country": "USD",
+      "date": "2026-09-02T14:00:00.000Z",
+      "impact": "Low",
+      "forecast": "0.0%",
+      "previous": "-0.4%"
+    },
+    {
+      "id": "270435-2026-09-02T14:00:00.000Z-Nondefense-Capital-Goods-Shipments-excl.-Aircraft-m/m",
+      "title": "Nondefense Capital Goods Shipments excl. Aircraft m/m",
+      "country": "USD",
+      "date": "2026-09-02T14:00:00.000Z",
+      "impact": "Low",
+      "forecast": "1.4%",
+      "previous": "1.4%"
+    },
+    {
+      "id": "309713-2026-09-02T14:30:00.000Z-EIA-Crude-Oil-Stocks-Change",
+      "title": "EIA Crude Oil Stocks Change",
+      "country": "USD",
+      "date": "2026-09-02T14:30:00.000Z",
+      "impact": "High",
+      "forecast": "5.822 M",
+      "previous": "0.095 M",
+      "actual": "+0.095 M",
+      "actualSource": "official"
+    },
+    {
+      "id": "309714-2026-09-02T14:30:00.000Z-EIA-Cushing-Crude-Oil-Stocks-Change",
+      "title": "EIA Cushing Crude Oil Stocks Change",
+      "country": "USD",
+      "date": "2026-09-02T14:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "-1.042 M",
+      "previous": "1.176 M"
+    },
+    {
+      "id": "309715-2026-09-02T14:30:00.000Z-EIA-Crude-Oil-Imports-Change",
+      "title": "EIA Crude Oil Imports Change",
+      "country": "USD",
+      "date": "2026-09-02T14:30:00.000Z",
+      "impact": "Low",
+      "forecast": "-0.003 M",
+      "previous": "-0.161 M"
+    },
+    {
+      "id": "309716-2026-09-02T14:30:00.000Z-EIA-Distillate-Fuel-Production-Change",
+      "title": "EIA Distillate Fuel Production Change",
+      "country": "USD",
+      "date": "2026-09-02T14:30:00.000Z",
+      "impact": "Low",
+      "forecast": "-0.026 M",
+      "previous": "-0.091 M"
+    },
+    {
+      "id": "309717-2026-09-02T14:30:00.000Z-EIA-Distillates-Stocks-Change",
+      "title": "EIA Distillates Stocks Change",
+      "country": "USD",
+      "date": "2026-09-02T14:30:00.000Z",
+      "impact": "Low",
+      "forecast": "-0.714 M",
+      "previous": "-2.228 M"
+    },
+    {
+      "id": "309718-2026-09-02T14:30:00.000Z-EIA-Gasoline-Production-Change",
+      "title": "EIA Gasoline Production Change",
+      "country": "USD",
+      "date": "2026-09-02T14:30:00.000Z",
+      "impact": "Low",
+      "forecast": "0.137 M",
+      "previous": "0.061 M"
+    },
+    {
+      "id": "309719-2026-09-02T14:30:00.000Z-EIA-Heating-Oil-Stocks-Change",
+      "title": "EIA Heating Oil Stocks Change",
+      "country": "USD",
+      "date": "2026-09-02T14:30:00.000Z",
+      "impact": "Low",
+      "forecast": "-0.011 M",
+      "previous": "0.027 M"
+    },
+    {
+      "id": "309720-2026-09-02T14:30:00.000Z-EIA-Gasoline-Stocks-Change",
+      "title": "EIA Gasoline Stocks Change",
+      "country": "USD",
+      "date": "2026-09-02T14:30:00.000Z",
+      "impact": "Low",
+      "forecast": "-0.552 M",
+      "previous": "-2.536 M"
+    },
+    {
+      "id": "309721-2026-09-02T14:30:00.000Z-EIA-Refinery-Crude-Oil-Daily-Inputs-Change",
+      "title": "EIA Refinery Crude Oil Daily Inputs Change",
+      "country": "USD",
+      "date": "2026-09-02T14:30:00.000Z",
+      "impact": "Low",
+      "previous": "-0.002 M"
+    },
+    {
+      "id": "309722-2026-09-02T14:30:00.000Z-EIA-Refinery-Utilization-Rate-Change",
+      "title": "EIA Refinery Utilization Rate Change",
+      "country": "USD",
+      "date": "2026-09-02T14:30:00.000Z",
+      "impact": "Low",
+      "previous": "0.2%"
+    },
+    {
+      "id": "ff-2026-09-02T14:30:00.000Z-BOC-Press-Conference",
+      "title": "BOC Press Conference",
+      "country": "CAD",
+      "date": "2026-09-02T14:30:00.000Z",
+      "impact": "High"
+    },
+    {
+      "id": "280291-2026-09-02T18:00:00.000Z-Fed-Beige-Book",
+      "title": "Fed Beige Book",
+      "country": "USD",
+      "date": "2026-09-02T18:00:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "313520-2026-09-02T22:45:00.000Z-Export-Price-Index-q/q",
+      "title": "Export Price Index q/q",
+      "country": "NZD",
+      "date": "2026-09-02T22:45:00.000Z",
+      "impact": "Low",
+      "forecast": "-4.0%",
+      "previous": "-2.7%"
+    },
+    {
+      "id": "313521-2026-09-02T22:45:00.000Z-Import-Price-Index-q/q",
+      "title": "Import Price Index q/q",
+      "country": "NZD",
+      "date": "2026-09-02T22:45:00.000Z",
+      "impact": "Low",
+      "forecast": "-0.1%",
+      "previous": "-0.7%"
+    },
+    {
+      "id": "313522-2026-09-02T22:45:00.000Z-Terms-of-Trade-Index-q/q",
+      "title": "Terms of Trade Index q/q",
+      "country": "NZD",
+      "date": "2026-09-02T22:45:00.000Z",
+      "impact": "Low",
+      "forecast": "-0.9%",
+      "previous": "-2.0%"
+    },
+    {
+      "id": "313526-2026-09-02T22:45:00.000Z-Export-Volume-Index-q/q",
+      "title": "Export Volume Index q/q",
+      "country": "NZD",
+      "date": "2026-09-02T22:45:00.000Z",
+      "impact": "Low",
+      "forecast": "-4.8%",
+      "previous": "2.7%"
+    },
+    {
+      "id": "313527-2026-09-02T22:45:00.000Z-Import-Volume-Index-q/q",
+      "title": "Import Volume Index q/q",
+      "country": "NZD",
+      "date": "2026-09-02T22:45:00.000Z",
+      "impact": "Low",
+      "forecast": "0.9%",
+      "previous": "2.2%"
+    },
+    {
+      "id": "313875-2026-09-02T23:00:00.000Z-S&P-Global-Services-PMI",
+      "title": "S&P Global Services PMI",
+      "country": "AUD",
+      "date": "2026-09-02T23:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "50.6",
+      "previous": "53.6"
+    },
+    {
+      "id": "313876-2026-09-02T23:00:00.000Z-S&P-Global-Composite-PMI",
+      "title": "S&P Global Composite PMI",
+      "country": "AUD",
+      "date": "2026-09-02T23:00:00.000Z",
+      "impact": "Medium",
+      "previous": "53.2"
+    },
+    {
+      "id": "294600-2026-09-02T23:50:00.000Z-Foreign-Bond-Investment",
+      "title": "Foreign Bond Investment",
+      "country": "JPY",
+      "date": "2026-09-02T23:50:00.000Z",
+      "impact": "Low",
+      "previous": "¥-1978.4 B"
+    },
+    {
+      "id": "294613-2026-09-02T23:50:00.000Z-Foreign-Investment-in-Japan-Stocks",
+      "title": "Foreign Investment in Japan Stocks",
+      "country": "JPY",
+      "date": "2026-09-02T23:50:00.000Z",
+      "impact": "Low",
+      "previous": "¥-764.1 B"
+    },
+    {
+      "id": "313890-2026-09-03T00:30:00.000Z-au-Jibun-Bank-Services-PMI",
+      "title": "au Jibun Bank Services PMI",
+      "country": "JPY",
+      "date": "2026-09-03T00:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "51.3",
+      "previous": "51.2"
+    },
+    {
+      "id": "313891-2026-09-03T00:30:00.000Z-au-Jibun-Bank-Composite-PMI",
+      "title": "au Jibun Bank Composite PMI",
+      "country": "JPY",
+      "date": "2026-09-03T00:30:00.000Z",
+      "impact": "Low",
+      "previous": "52.7"
+    },
+    {
+      "id": "280432-2026-09-03T01:00:00.000Z-ANZ-Commodity-Price-Index-m/m",
+      "title": "ANZ Commodity Price Index m/m",
+      "country": "NZD",
+      "date": "2026-09-03T01:00:00.000Z",
+      "impact": "Low",
+      "forecast": "0.0%",
+      "previous": "-3.9%"
+    },
+    {
+      "id": "ff-2026-09-03T01:15:00.000Z-RBA-Assist-Gov-Jones-Speaks",
+      "title": "RBA Assist Gov Jones Speaks",
+      "country": "AUD",
+      "date": "2026-09-03T01:15:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "302098-2026-09-03T01:30:00.000Z-Exports-m/m",
+      "title": "Exports m/m",
+      "country": "AUD",
+      "date": "2026-09-03T01:30:00.000Z",
+      "impact": "Low",
+      "previous": "9.6%"
+    },
+    {
+      "id": "302099-2026-09-03T01:30:00.000Z-Imports-m/m",
+      "title": "Imports m/m",
+      "country": "AUD",
+      "date": "2026-09-03T01:30:00.000Z",
+      "impact": "Low",
+      "previous": "-0.2%"
+    },
+    {
+      "id": "302100-2026-09-03T01:30:00.000Z-Trade-Balance",
+      "title": "Trade Balance",
+      "country": "AUD",
+      "date": "2026-09-03T01:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "$0.336 B",
+      "previous": "$1.929 B"
+    },
+    {
+      "id": "313410-2026-09-03T03:35:00.000Z-30-Year-JGB-Auction",
+      "title": "30-Year JGB Auction",
+      "country": "JPY",
+      "date": "2026-09-03T03:35:00.000Z",
+      "impact": "Low",
+      "previous": "3.937%"
+    },
+    {
+      "id": "ff-2026-09-03T05:15:00.000Z-RBA-Assist-Gov-Hunter-Speaks",
+      "title": "RBA Assist Gov Hunter Speaks",
+      "country": "AUD",
+      "date": "2026-09-03T05:15:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "270613-2026-09-03T06:30:00.000Z-CPI-m/m",
+      "title": "CPI m/m",
+      "country": "CHF",
+      "date": "2026-09-03T06:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "0.0%",
+      "previous": "-0.1%"
+    },
+    {
+      "id": "270619-2026-09-03T06:30:00.000Z-CPI-y/y",
+      "title": "CPI y/y",
+      "country": "CHF",
+      "date": "2026-09-03T06:30:00.000Z",
+      "impact": "Low",
+      "forecast": "0.2%",
+      "previous": "0.4%"
+    },
+    {
+      "id": "312986-2026-09-03T07:00:00.000Z-GDP-q/q",
+      "title": "GDP q/q",
+      "country": "CHF",
+      "date": "2026-09-03T07:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "0.1%",
+      "previous": "0.7%"
+    },
+    {
+      "id": "312988-2026-09-03T07:00:00.000Z-GDP-y/y",
+      "title": "GDP y/y",
+      "country": "CHF",
+      "date": "2026-09-03T07:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "0.6%",
+      "previous": "0.5%"
+    },
+    {
+      "id": "313894-2026-09-03T07:15:00.000Z-S&P-Global-Services-PMI",
+      "title": "S&P Global Services PMI",
+      "country": "EUR",
+      "date": "2026-09-03T07:15:00.000Z",
+      "impact": "Medium",
+      "forecast": "55.5",
+      "previous": "58.3"
+    },
+    {
+      "id": "313895-2026-09-03T07:15:00.000Z-S&P-Global-Composite-PMI",
+      "title": "S&P Global Composite PMI",
+      "country": "EUR",
+      "date": "2026-09-03T07:15:00.000Z",
+      "impact": "Medium",
+      "previous": "56.5"
+    },
+    {
+      "id": "313888-2026-09-03T07:45:00.000Z-S&P-Global-Services-PMI",
+      "title": "S&P Global Services PMI",
+      "country": "EUR",
+      "date": "2026-09-03T07:45:00.000Z",
+      "impact": "Medium",
+      "forecast": "52.5",
+      "previous": "52.5"
+    },
+    {
+      "id": "313889-2026-09-03T07:45:00.000Z-S&P-Global-Composite-PMI",
+      "title": "S&P Global Composite PMI",
+      "country": "EUR",
+      "date": "2026-09-03T07:45:00.000Z",
+      "impact": "Low",
+      "previous": "52.5"
+    },
+    {
+      "id": "313881-2026-09-03T07:50:00.000Z-S&P-Global-Services-PMI",
+      "title": "S&P Global Services PMI",
+      "country": "EUR",
+      "date": "2026-09-03T07:50:00.000Z",
+      "impact": "Medium",
+      "forecast": "48.4",
+      "previous": "48.4"
+    },
+    {
+      "id": "313882-2026-09-03T07:50:00.000Z-S&P-Global-Composite-PMI",
+      "title": "S&P Global Composite PMI",
+      "country": "EUR",
+      "date": "2026-09-03T07:50:00.000Z",
+      "impact": "Low",
+      "forecast": "48.8",
+      "previous": "48.8"
+    },
+    {
+      "id": "313883-2026-09-03T07:55:00.000Z-S&P-Global-Services-PMI",
+      "title": "S&P Global Services PMI",
+      "country": "EUR",
+      "date": "2026-09-03T07:55:00.000Z",
+      "impact": "Medium",
+      "forecast": "48.5",
+      "previous": "48.5"
+    },
+    {
+      "id": "313884-2026-09-03T07:55:00.000Z-S&P-Global-Composite-PMI",
+      "title": "S&P Global Composite PMI",
+      "country": "EUR",
+      "date": "2026-09-03T07:55:00.000Z",
+      "impact": "Low",
+      "forecast": "51.0",
+      "previous": "51.0"
+    },
+    {
+      "id": "313900-2026-09-03T08:00:00.000Z-S&P-Global-Services-PMI",
+      "title": "S&P Global Services PMI",
+      "country": "EUR",
+      "date": "2026-09-03T08:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "51.7",
+      "previous": "51.7"
+    },
+    {
+      "id": "313901-2026-09-03T08:00:00.000Z-S&P-Global-Composite-PMI",
+      "title": "S&P Global Composite PMI",
+      "country": "EUR",
+      "date": "2026-09-03T08:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "52.1",
+      "previous": "52.1"
+    },
+    {
+      "id": "313896-2026-09-03T08:30:00.000Z-S&P-Global/CIPS-Services-PMI",
+      "title": "S&P Global/CIPS Services PMI",
+      "country": "GBP",
+      "date": "2026-09-03T08:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "52.8",
+      "previous": "52.8"
+    },
+    {
+      "id": "313897-2026-09-03T08:30:00.000Z-S&P-Global/CIPS-Composite-PMI",
+      "title": "S&P Global/CIPS Composite PMI",
+      "country": "GBP",
+      "date": "2026-09-03T08:30:00.000Z",
+      "impact": "Medium",
+      "previous": "52.5"
+    },
+    {
+      "id": "285890-2026-09-03T08:40:00.000Z-3-Year-Bonos-Auction",
+      "title": "3-Year Bonos Auction",
+      "country": "EUR",
+      "date": "2026-09-03T08:40:00.000Z",
+      "impact": "Low",
+      "previous": "2.867%"
+    },
+    {
+      "id": "285913-2026-09-03T08:40:00.000Z-5-Year-Bonos-Auction",
+      "title": "5-Year Bonos Auction",
+      "country": "EUR",
+      "date": "2026-09-03T08:40:00.000Z",
+      "impact": "Low",
+      "previous": "3.005%"
+    },
+    {
+      "id": "313578-2026-09-03T08:50:00.000Z-10-Year-OAT-Auction",
+      "title": "10-Year OAT Auction",
+      "country": "EUR",
+      "date": "2026-09-03T08:50:00.000Z",
+      "impact": "Low",
+      "previous": "3.860%"
+    },
+    {
+      "id": "313354-2026-09-03T09:00:00.000Z-PPI-m/m",
+      "title": "PPI m/m",
+      "country": "EUR",
+      "date": "2026-09-03T09:00:00.000Z",
+      "impact": "Low",
+      "forecast": "0.0%",
+      "previous": "-0.3%"
+    },
+    {
+      "id": "313355-2026-09-03T09:00:00.000Z-PPI-y/y",
+      "title": "PPI y/y",
+      "country": "EUR",
+      "date": "2026-09-03T09:00:00.000Z",
+      "impact": "Low",
+      "forecast": "3.9%",
+      "previous": "4.6%"
+    },
+    {
+      "id": "309596-2026-09-03T10:00:00.000Z-New-Car-Registrations-m/m",
+      "title": "New Car Registrations m/m",
+      "country": "EUR",
+      "date": "2026-09-03T10:00:00.000Z",
+      "impact": "Low",
+      "previous": "-9.6%"
+    },
+    {
+      "id": "309597-2026-09-03T10:00:00.000Z-New-Car-Registrations-y/y",
+      "title": "New Car Registrations y/y",
+      "country": "EUR",
+      "date": "2026-09-03T10:00:00.000Z",
+      "impact": "Low",
+      "previous": "1.2%"
+    },
+    {
+      "id": "278125-2026-09-03T12:30:00.000Z-Imports",
+      "title": "Imports",
+      "country": "CAD",
+      "date": "2026-09-03T12:30:00.000Z",
+      "impact": "Low",
+      "previous": "$73.631 B"
+    },
+    {
+      "id": "278139-2026-09-03T12:30:00.000Z-Exports",
+      "title": "Exports",
+      "country": "CAD",
+      "date": "2026-09-03T12:30:00.000Z",
+      "impact": "Low",
+      "previous": "$77.486 B"
+    },
+    {
+      "id": "278153-2026-09-03T12:30:00.000Z-Trade-Balance",
+      "title": "Trade Balance",
+      "country": "CAD",
+      "date": "2026-09-03T12:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "$3.831 B",
+      "previous": "$3.855 B"
+    },
+    {
+      "id": "278240-2026-09-03T12:30:00.000Z-Labor-Productivity-q/q",
+      "title": "Labor Productivity q/q",
+      "country": "CAD",
+      "date": "2026-09-03T12:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "-0.2%",
+      "previous": "-0.5%"
+    },
+    {
+      "id": "270163-2026-09-03T12:30:00.000Z-Trade-Balance",
+      "title": "Trade Balance",
+      "country": "USD",
+      "date": "2026-09-03T12:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "$-75.770 B",
+      "previous": "$-73.261 B",
+      "actual": "-73.3 B",
+      "actualSource": "official"
+    },
+    {
+      "id": "270451-2026-09-03T12:30:00.000Z-Exports",
+      "title": "Exports",
+      "country": "USD",
+      "date": "2026-09-03T12:30:00.000Z",
+      "impact": "Medium",
+      "previous": "$314.728 B"
+    },
+    {
+      "id": "270463-2026-09-03T12:30:00.000Z-Imports",
+      "title": "Imports",
+      "country": "USD",
+      "date": "2026-09-03T12:30:00.000Z",
+      "impact": "Medium",
+      "previous": "$387.989 B"
+    },
+    {
+      "id": "277728-2026-09-03T12:30:00.000Z-Nonfarm-Productivity-q/q",
+      "title": "Nonfarm Productivity q/q",
+      "country": "USD",
+      "date": "2026-09-03T12:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "1.4%",
+      "previous": "1.4%"
+    },
+    {
+      "id": "277736-2026-09-03T12:30:00.000Z-Unit-Labor-Costs-q/q",
+      "title": "Unit Labor Costs q/q",
+      "country": "USD",
+      "date": "2026-09-03T12:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "1.3%",
+      "previous": "1.3%"
+    },
+    {
+      "id": "316678-2026-09-03T12:30:00.000Z-Fed-Governor-Waller-Speech",
+      "title": "Fed Governor Waller Speech",
+      "country": "USD",
+      "date": "2026-09-03T12:30:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "313646-2026-09-03T12:30:00.000Z-Initial-Jobless-Claims",
+      "title": "Initial Jobless Claims",
+      "country": "USD",
+      "date": "2026-09-03T12:30:00.000Z",
+      "impact": "High",
+      "forecast": "213 K",
+      "previous": "203 K"
+    },
+    {
+      "id": "313650-2026-09-03T12:30:00.000Z-Continuing-Jobless-Claims",
+      "title": "Continuing Jobless Claims",
+      "country": "USD",
+      "date": "2026-09-03T12:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "1.787 M",
+      "previous": "1.778 M"
+    },
+    {
+      "id": "313654-2026-09-03T12:30:00.000Z-Initial-Jobless-Claims-4-Week-Average",
+      "title": "Initial Jobless Claims 4-Week Average",
+      "country": "USD",
+      "date": "2026-09-03T12:30:00.000Z",
+      "impact": "Low",
+      "forecast": "205.816 K",
+      "previous": "205.500 K"
+    },
+    {
+      "id": "ff-2026-09-03T12:30:00.000Z-FOMC-Member-Waller-Speaks",
+      "title": "FOMC Member Waller Speaks",
+      "country": "USD",
+      "date": "2026-09-03T12:30:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "313898-2026-09-03T13:45:00.000Z-S&P-Global-Services-PMI",
+      "title": "S&P Global Services PMI",
+      "country": "USD",
+      "date": "2026-09-03T13:45:00.000Z",
+      "impact": "High",
+      "forecast": "55.4",
+      "previous": "54.6"
+    },
+    {
+      "id": "313899-2026-09-03T13:45:00.000Z-S&P-Global-Composite-PMI",
+      "title": "S&P Global Composite PMI",
+      "country": "USD",
+      "date": "2026-09-03T13:45:00.000Z",
+      "impact": "Medium",
+      "forecast": "54.1",
+      "previous": "53.6"
+    },
+    {
+      "id": "283027-2026-09-03T14:00:00.000Z-ISM-Non-Manufacturing-PMI",
+      "title": "ISM Non-Manufacturing PMI",
+      "country": "USD",
+      "date": "2026-09-03T14:00:00.000Z",
+      "impact": "High",
+      "forecast": "53.8",
+      "previous": "54.1"
+    },
+    {
+      "id": "283039-2026-09-03T14:00:00.000Z-ISM-Non-Manufacturing-Employment",
+      "title": "ISM Non-Manufacturing Employment",
+      "country": "USD",
+      "date": "2026-09-03T14:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "48.4",
+      "previous": "47.4"
+    },
+    {
+      "id": "283051-2026-09-03T14:00:00.000Z-ISM-Non-Manufacturing-New-Orders",
+      "title": "ISM Non-Manufacturing New Orders",
+      "country": "USD",
+      "date": "2026-09-03T14:00:00.000Z",
+      "impact": "Low",
+      "forecast": "55.8",
+      "previous": "57.2"
+    },
+    {
+      "id": "283057-2026-09-03T14:00:00.000Z-ISM-Non-Manufacturing-Prices-Paid",
+      "title": "ISM Non-Manufacturing Prices Paid",
+      "country": "USD",
+      "date": "2026-09-03T14:00:00.000Z",
+      "impact": "High",
+      "forecast": "68.2",
+      "previous": "70.3"
+    },
+    {
+      "id": "283063-2026-09-03T14:00:00.000Z-ISM-Non-Manufacturing-Business-Activity",
+      "title": "ISM Non-Manufacturing Business Activity",
+      "country": "USD",
+      "date": "2026-09-03T14:00:00.000Z",
+      "impact": "Low",
+      "forecast": "56.4",
+      "previous": "59.1"
+    },
+    {
+      "id": "309809-2026-09-03T14:30:00.000Z-EIA-Natural-Gas-Storage-Change",
+      "title": "EIA Natural Gas Storage Change",
+      "country": "USD",
+      "date": "2026-09-03T14:30:00.000Z",
+      "impact": "Low",
+      "forecast": "-13 B",
+      "previous": "15 B"
+    },
+    {
+      "id": "301561-2026-09-03T15:30:00.000Z-4-Week-Bill-Auction",
+      "title": "4-Week Bill Auction",
+      "country": "USD",
+      "date": "2026-09-03T15:30:00.000Z",
+      "impact": "Low",
+      "previous": "3.650%"
+    },
+    {
+      "id": "301574-2026-09-03T15:30:00.000Z-8-Week-Bill-Auction",
+      "title": "8-Week Bill Auction",
+      "country": "USD",
+      "date": "2026-09-03T15:30:00.000Z",
+      "impact": "Low",
+      "previous": "3.670%"
+    },
+    {
+      "id": "ff-2026-09-03T19:00:00.000Z-FOMC-Member-Hammack-Speaks",
+      "title": "FOMC Member Hammack Speaks",
+      "country": "USD",
+      "date": "2026-09-03T19:00:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "ff-2026-09-03T19:05:00.000Z-FOMC-Member-Goolsbee-Speaks",
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-09-03T19:05:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "286748-2026-09-03T23:30:00.000Z-Household-Spending-y/y",
+      "title": "Household Spending y/y",
+      "country": "JPY",
+      "date": "2026-09-03T23:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "-1.8%",
+      "previous": "-3.3%"
+    },
+    {
+      "id": "286760-2026-09-03T23:30:00.000Z-Household-Spending-m/m",
+      "title": "Household Spending m/m",
+      "country": "JPY",
+      "date": "2026-09-03T23:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "-3.9%",
+      "previous": "-6.4%"
+    },
+    {
+      "id": "317192-2026-09-04T06:00:00.000Z-Factory-Orders-m/m",
+      "title": "Factory Orders m/m",
+      "country": "EUR",
+      "date": "2026-09-04T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "2.9%",
+      "previous": "-3.8%"
+    },
+    {
+      "id": "317193-2026-09-04T06:00:00.000Z-Factory-Orders-y/y",
+      "title": "Factory Orders y/y",
+      "country": "EUR",
+      "date": "2026-09-04T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "-2.7%",
+      "previous": "1.6%"
+    },
+    {
+      "id": "313986-2026-09-04T07:30:00.000Z-S&P-Global-Construction-PMI",
+      "title": "S&P Global Construction PMI",
+      "country": "EUR",
+      "date": "2026-09-04T07:30:00.000Z",
+      "impact": "Low",
+      "previous": "41.5"
+    },
+    {
+      "id": "313987-2026-09-04T07:30:00.000Z-S&P-Global-Construction-PMI",
+      "title": "S&P Global Construction PMI",
+      "country": "EUR",
+      "date": "2026-09-04T07:30:00.000Z",
+      "impact": "Low",
+      "previous": "42.1"
+    },
+    {
+      "id": "313988-2026-09-04T07:30:00.000Z-S&P-Global-Construction-PMI",
+      "title": "S&P Global Construction PMI",
+      "country": "EUR",
+      "date": "2026-09-04T07:30:00.000Z",
+      "impact": "Low",
+      "previous": "49.1"
+    },
+    {
+      "id": "313990-2026-09-04T07:30:00.000Z-S&P-Global-Construction-PMI",
+      "title": "S&P Global Construction PMI",
+      "country": "EUR",
+      "date": "2026-09-04T07:30:00.000Z",
+      "impact": "Medium",
+      "previous": "44.3"
+    },
+    {
+      "id": "281546-2026-09-04T08:00:00.000Z-Retail-Sales-m/m",
+      "title": "Retail Sales m/m",
+      "country": "EUR",
+      "date": "2026-09-04T08:00:00.000Z",
+      "impact": "Low",
+      "forecast": "-1.7%",
+      "previous": "-0.1%"
+    },
+    {
+      "id": "281557-2026-09-04T08:00:00.000Z-Retail-Sales-y/y",
+      "title": "Retail Sales y/y",
+      "country": "EUR",
+      "date": "2026-09-04T08:00:00.000Z",
+      "impact": "Low",
+      "forecast": "2.7%",
+      "previous": "3.1%"
+    },
+    {
+      "id": "296214-2026-09-04T08:00:00.000Z-New-Car-Registrations-m/m",
+      "title": "New Car Registrations m/m",
+      "country": "GBP",
+      "date": "2026-09-04T08:00:00.000Z",
+      "impact": "Low",
+      "previous": "-26.5%"
+    },
+    {
+      "id": "296224-2026-09-04T08:00:00.000Z-New-Car-Registrations-y/y",
+      "title": "New Car Registrations y/y",
+      "country": "GBP",
+      "date": "2026-09-04T08:00:00.000Z",
+      "impact": "Low",
+      "previous": "11.7%"
+    },
+    {
+      "id": "313989-2026-09-04T08:30:00.000Z-S&P-Global/CIPS-Construction-PMI",
+      "title": "S&P Global/CIPS Construction PMI",
+      "country": "GBP",
+      "date": "2026-09-04T08:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "39.2",
+      "previous": "44.7"
+    },
+    {
+      "id": "316081-2026-09-04T08:50:00.000Z-BoE-Governor-Bailey-Speech",
+      "title": "BoE Governor Bailey Speech",
+      "country": "GBP",
+      "date": "2026-09-04T08:50:00.000Z",
+      "impact": "High"
+    },
+    {
+      "id": "ff-2026-09-04T08:50:00.000Z-BOE-Gov-Bailey-Speaks",
+      "title": "BOE Gov Bailey Speaks",
+      "country": "GBP",
+      "date": "2026-09-04T08:50:00.000Z",
+      "impact": "High"
+    },
+    {
+      "id": "316788-2026-09-04T09:00:00.000Z-ECB-Executive-Board-Member-Lane-Speech",
+      "title": "ECB Executive Board Member Lane Speech",
+      "country": "EUR",
+      "date": "2026-09-04T09:00:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "313352-2026-09-04T09:00:00.000Z-Retail-Sales-m/m",
+      "title": "Retail Sales m/m",
+      "country": "EUR",
+      "date": "2026-09-04T09:00:00.000Z",
+      "impact": "Low",
+      "forecast": "-0.2%",
+      "previous": "-0.3%"
+    },
+    {
+      "id": "313353-2026-09-04T09:00:00.000Z-Retail-Sales-y/y",
+      "title": "Retail Sales y/y",
+      "country": "EUR",
+      "date": "2026-09-04T09:00:00.000Z",
+      "impact": "Low",
+      "forecast": "1.2%",
+      "previous": "0.7%"
+    },
+    {
+      "id": "278063-2026-09-04T12:30:00.000Z-Employment-Change",
+      "title": "Employment Change",
+      "country": "CAD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "-30.6 K",
+      "previous": "75.1 K"
+    },
+    {
+      "id": "278075-2026-09-04T12:30:00.000Z-Full-Time-Employment-Change",
+      "title": "Full-Time Employment Change",
+      "country": "CAD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "Low",
+      "previous": "38.6 K"
+    },
+    {
+      "id": "278087-2026-09-04T12:30:00.000Z-Part-Time-Employment-Change",
+      "title": "Part-Time Employment Change",
+      "country": "CAD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "Low",
+      "previous": "36.6 K"
+    },
+    {
+      "id": "278099-2026-09-04T12:30:00.000Z-Unemployment-Rate",
+      "title": "Unemployment Rate",
+      "country": "CAD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "6.4%",
+      "previous": "6.4%"
+    },
+    {
+      "id": "278111-2026-09-04T12:30:00.000Z-Participation-Rate",
+      "title": "Participation Rate",
+      "country": "CAD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "Low",
+      "forecast": "65.0%",
+      "previous": "65.1%"
+    },
+    {
+      "id": "277611-2026-09-04T12:30:00.000Z-Unemployment-Rate",
+      "title": "Unemployment Rate",
+      "country": "USD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "High",
+      "forecast": "4.1%",
+      "previous": "4.1%"
+    },
+    {
+      "id": "277623-2026-09-04T12:30:00.000Z-Nonfarm-Payrolls",
+      "title": "Nonfarm Payrolls",
+      "country": "USD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "High",
+      "forecast": "41 K",
+      "previous": "-23 K"
+    },
+    {
+      "id": "277635-2026-09-04T12:30:00.000Z-Participation-Rate",
+      "title": "Participation Rate",
+      "country": "USD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "61.4%",
+      "previous": "61.4%"
+    },
+    {
+      "id": "277647-2026-09-04T12:30:00.000Z-Average-Hourly-Earnings-m/m",
+      "title": "Average Hourly Earnings m/m",
+      "country": "USD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "High",
+      "forecast": "0.2%",
+      "previous": "0.1%"
+    },
+    {
+      "id": "277659-2026-09-04T12:30:00.000Z-Average-Hourly-Earnings-y/y",
+      "title": "Average Hourly Earnings y/y",
+      "country": "USD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "3.4%",
+      "previous": "3.2%"
+    },
+    {
+      "id": "277671-2026-09-04T12:30:00.000Z-Average-Weekly-Hours",
+      "title": "Average Weekly Hours",
+      "country": "USD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "Low",
+      "forecast": "34.3",
+      "previous": "34.3"
+    },
+    {
+      "id": "277683-2026-09-04T12:30:00.000Z-Government-Payrolls",
+      "title": "Government Payrolls",
+      "country": "USD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "Low",
+      "forecast": "3 K",
+      "previous": "-53 K"
+    },
+    {
+      "id": "277695-2026-09-04T12:30:00.000Z-Private-Nonfarm-Payrolls",
+      "title": "Private Nonfarm Payrolls",
+      "country": "USD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "48 K",
+      "previous": "30 K"
+    },
+    {
+      "id": "277707-2026-09-04T12:30:00.000Z-U6-Unemployment-Rate",
+      "title": "U6 Unemployment Rate",
+      "country": "USD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "Medium",
+      "forecast": "7.6%",
+      "previous": "7.9%"
+    },
+    {
+      "id": "277771-2026-09-04T12:30:00.000Z-Manufacturing-Payrolls",
+      "title": "Manufacturing Payrolls",
+      "country": "USD",
+      "date": "2026-09-04T12:30:00.000Z",
+      "impact": "Low",
+      "forecast": "-3 K",
+      "previous": "5 K"
+    },
+    {
+      "id": "315179-2026-09-04T14:00:00.000Z-Ivey-PMI",
+      "title": "Ivey PMI",
+      "country": "CAD",
+      "date": "2026-09-04T14:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "51.5",
+      "previous": "55.1"
+    },
+    {
+      "id": "315184-2026-09-04T14:00:00.000Z-Ivey-PMI-n.s.a.",
+      "title": "Ivey PMI n.s.a.",
+      "country": "CAD",
+      "date": "2026-09-04T14:00:00.000Z",
+      "impact": "Medium",
+      "previous": "54.1"
+    },
+    {
+      "id": "311602-2026-09-04T17:00:00.000Z-Baker-Hughes-US-Oil-Rig-Count",
+      "title": "Baker Hughes US Oil Rig Count",
+      "country": "USD",
+      "date": "2026-09-04T17:00:00.000Z",
+      "impact": "Medium",
+      "previous": "447"
+    },
+    {
+      "id": "311603-2026-09-04T17:00:00.000Z-Baker-Hughes-US-Total-Rig-Count",
+      "title": "Baker Hughes US Total Rig Count",
+      "country": "USD",
+      "date": "2026-09-04T17:00:00.000Z",
+      "impact": "Medium",
+      "previous": "588"
+    },
+    {
+      "id": "287364-2026-09-04T19:30:00.000Z-CFTC-AUD-Non-Commercial-Net-Positions",
+      "title": "CFTC AUD Non-Commercial Net Positions",
+      "country": "AUD",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Medium",
+      "previous": "-44.5 K"
+    },
+    {
+      "id": "287458-2026-09-04T19:30:00.000Z-CFTC-CAD-Non-Commercial-Net-Positions",
+      "title": "CFTC CAD Non-Commercial Net Positions",
+      "country": "CAD",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Low",
+      "previous": "-121.5 K"
+    },
+    {
+      "id": "287505-2026-09-04T19:30:00.000Z-CFTC-JPY-Non-Commercial-Net-Positions",
+      "title": "CFTC JPY Non-Commercial Net Positions",
+      "country": "JPY",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Medium",
+      "previous": "-63.3 K"
+    },
+    {
+      "id": "287599-2026-09-04T19:30:00.000Z-CFTC-NZD-Non-Commercial-Net-Positions",
+      "title": "CFTC NZD Non-Commercial Net Positions",
+      "country": "NZD",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Low",
+      "previous": "-14.2 K"
+    },
+    {
+      "id": "287693-2026-09-04T19:30:00.000Z-CFTC-CHF-Non-Commercial-Net-Positions",
+      "title": "CFTC CHF Non-Commercial Net Positions",
+      "country": "CHF",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Low",
+      "previous": "-19.9 K"
+    },
+    {
+      "id": "287740-2026-09-04T19:30:00.000Z-CFTC-GBP-Non-Commercial-Net-Positions",
+      "title": "CFTC GBP Non-Commercial Net Positions",
+      "country": "GBP",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Medium",
+      "previous": "-44.5 K"
+    },
+    {
+      "id": "287787-2026-09-04T19:30:00.000Z-CFTC-Copper-Non-Commercial-Net-Positions",
+      "title": "CFTC Copper Non-Commercial Net Positions",
+      "country": "USD",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Low",
+      "previous": "85.3 K"
+    },
+    {
+      "id": "287834-2026-09-04T19:30:00.000Z-CFTC-Silver-Non-Commercial-Net-Positions",
+      "title": "CFTC Silver Non-Commercial Net Positions",
+      "country": "USD",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Low",
+      "previous": "25.3 K"
+    },
+    {
+      "id": "287881-2026-09-04T19:30:00.000Z-CFTC-Gold-Non-Commercial-Net-Positions",
+      "title": "CFTC Gold Non-Commercial Net Positions",
+      "country": "USD",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Medium",
+      "previous": "243.3 K"
+    },
+    {
+      "id": "287928-2026-09-04T19:30:00.000Z-CFTC-Crude-Oil-Non-Commercial-Net-Positions",
+      "title": "CFTC Crude Oil Non-Commercial Net Positions",
+      "country": "USD",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Medium",
+      "previous": "123.4 K"
+    },
+    {
+      "id": "287975-2026-09-04T19:30:00.000Z-CFTC-S&P-500-Non-Commercial-Net-Positions",
+      "title": "CFTC S&P 500 Non-Commercial Net Positions",
+      "country": "USD",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Medium",
+      "previous": "-68.0 K"
+    },
+    {
+      "id": "288022-2026-09-04T19:30:00.000Z-CFTC-Aluminium-Non-Commercial-Net-Positions",
+      "title": "CFTC Aluminium Non-Commercial Net Positions",
+      "country": "USD",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Low",
+      "previous": "0.0 K"
+    },
+    {
+      "id": "288069-2026-09-04T19:30:00.000Z-CFTC-Corn-Non-Commercial-Net-Positions",
+      "title": "CFTC Corn Non-Commercial Net Positions",
+      "country": "USD",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Low",
+      "previous": "440.9 K"
+    },
+    {
+      "id": "288116-2026-09-04T19:30:00.000Z-CFTC-Natural-Gas-Non-Commercial-Net-Positions",
+      "title": "CFTC Natural Gas Non-Commercial Net Positions",
+      "country": "USD",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Low",
+      "previous": "-197.9 K"
+    },
+    {
+      "id": "288163-2026-09-04T19:30:00.000Z-CFTC-Soybeans-Non-Commercial-Net-Positions",
+      "title": "CFTC Soybeans Non-Commercial Net Positions",
+      "country": "USD",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Low",
+      "previous": "221.4 K"
+    },
+    {
+      "id": "288210-2026-09-04T19:30:00.000Z-CFTC-Wheat-Non-Commercial-Net-Positions",
+      "title": "CFTC Wheat Non-Commercial Net Positions",
+      "country": "USD",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Low",
+      "previous": "-6.8 K"
+    },
+    {
+      "id": "288257-2026-09-04T19:30:00.000Z-CFTC-Nasdaq-100-Non-Commercial-Net-Positions",
+      "title": "CFTC Nasdaq 100 Non-Commercial Net Positions",
+      "country": "USD",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Medium",
+      "previous": "10.0 K"
+    },
+    {
+      "id": "288304-2026-09-04T19:30:00.000Z-CFTC-EUR-Non-Commercial-Net-Positions",
+      "title": "CFTC EUR Non-Commercial Net Positions",
+      "country": "EUR",
+      "date": "2026-09-04T19:30:00.000Z",
+      "impact": "Medium",
+      "previous": "-36.4 K"
+    },
+    {
+      "id": "305993-2026-09-06T23:50:00.000Z-International-Reserves",
+      "title": "International Reserves",
+      "country": "JPY",
+      "date": "2026-09-06T23:50:00.000Z",
+      "impact": "Low",
+      "previous": "$1287.1 B"
+    },
+    {
+      "id": "237641-2026-09-07T00:00:00.000Z-Labor-Day",
+      "title": "Labor Day",
+      "country": "CAD",
+      "date": "2026-09-07T00:00:00.000Z",
+      "impact": "Low"
+    },
+    {
+      "id": "237120-2026-09-07T00:00:00.000Z-Labor-Day",
+      "title": "Labor Day",
+      "country": "USD",
+      "date": "2026-09-07T00:00:00.000Z",
+      "impact": "Low"
+    },
+    {
+      "id": "278863-2026-09-07T01:30:00.000Z-ANZ-Job-Advertisements-m/m",
+      "title": "ANZ Job Advertisements m/m",
+      "country": "AUD",
+      "date": "2026-09-07T01:30:00.000Z",
+      "impact": "Low",
+      "forecast": "-0.7%",
+      "previous": "2.0%"
+    },
+    {
+      "id": "304591-2026-09-07T05:00:00.000Z-Coincident-Index",
+      "title": "Coincident Index",
+      "country": "JPY",
+      "date": "2026-09-07T05:00:00.000Z",
+      "impact": "Low",
+      "forecast": "116.2",
+      "previous": "118.5"
+    },
+    {
+      "id": "304593-2026-09-07T05:00:00.000Z-Leading-Index",
+      "title": "Leading Index",
+      "country": "JPY",
+      "date": "2026-09-07T05:00:00.000Z",
+      "impact": "Low",
+      "forecast": "117.4",
+      "previous": "116.5"
+    },
+    {
+      "id": "304595-2026-09-07T05:00:00.000Z-Coincident-Index-m/m",
+      "title": "Coincident Index m/m",
+      "country": "JPY",
+      "date": "2026-09-07T05:00:00.000Z",
+      "impact": "Low",
+      "previous": "0.6%"
+    },
+    {
+      "id": "304597-2026-09-07T05:00:00.000Z-Leading-Index-m/m",
+      "title": "Leading Index m/m",
+      "country": "JPY",
+      "date": "2026-09-07T05:00:00.000Z",
+      "impact": "Low",
+      "previous": "0.0%"
+    },
+    {
+      "id": "279540-2026-09-07T05:45:00.000Z-Unemployment-Rate",
+      "title": "Unemployment Rate",
+      "country": "CHF",
+      "date": "2026-09-07T05:45:00.000Z",
+      "impact": "Low",
+      "forecast": "3.1%",
+      "previous": "3.1%"
+    },
+    {
+      "id": "279552-2026-09-07T05:45:00.000Z-Unemployment-Rate-n.s.a.",
+      "title": "Unemployment Rate n.s.a.",
+      "country": "CHF",
+      "date": "2026-09-07T05:45:00.000Z",
+      "impact": "Low",
+      "forecast": "3.0%",
+      "previous": "3.0%"
+    },
+    {
+      "id": "317188-2026-09-07T06:00:00.000Z-Industrial-Production-m/m",
+      "title": "Industrial Production m/m",
+      "country": "EUR",
+      "date": "2026-09-07T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "-0.4%",
+      "previous": "0.4%"
+    },
+    {
+      "id": "317189-2026-09-07T06:00:00.000Z-Industrial-Production-y/y",
+      "title": "Industrial Production y/y",
+      "country": "EUR",
+      "date": "2026-09-07T06:00:00.000Z",
+      "impact": "Low",
+      "forecast": "-0.7%",
+      "previous": "-0.5%"
+    },
+    {
+      "id": "313502-2026-09-07T07:00:00.000Z-Foreign-Currency-Reserves",
+      "title": "Foreign Currency Reserves",
+      "country": "CHF",
+      "date": "2026-09-07T07:00:00.000Z",
+      "impact": "Low",
+      "previous": "₣768.260 B"
+    },
+    {
+      "id": "266345-2026-09-07T08:30:00.000Z-Sentix-Investor-Confidence",
+      "title": "Sentix Investor Confidence",
+      "country": "EUR",
+      "date": "2026-09-07T08:30:00.000Z",
+      "impact": "Low",
+      "forecast": "-4.8",
+      "previous": "0.9"
+    },
+    {
+      "id": "309599-2026-09-07T10:30:00.000Z-Consumer-Confidence",
+      "title": "Consumer Confidence",
+      "country": "EUR",
+      "date": "2026-09-07T10:30:00.000Z",
+      "impact": "Low",
+      "forecast": "77.4",
+      "previous": "81.2"
+    },
+    {
+      "id": "313566-2026-09-07T12:50:00.000Z-3-Month-BTF-Auction",
+      "title": "3-Month BTF Auction",
+      "country": "EUR",
+      "date": "2026-09-07T12:50:00.000Z",
+      "impact": "Low",
+      "previous": "2.533%"
+    },
+    {
+      "id": "313570-2026-09-07T12:50:00.000Z-6-Month-BTF-Auction",
+      "title": "6-Month BTF Auction",
+      "country": "EUR",
+      "date": "2026-09-07T12:50:00.000Z",
+      "impact": "Low",
+      "previous": "2.655%"
+    },
+    {
+      "id": "313574-2026-09-07T12:50:00.000Z-12-Month-BTF-Auction",
+      "title": "12-Month BTF Auction",
+      "country": "EUR",
+      "date": "2026-09-07T12:50:00.000Z",
+      "impact": "Low",
+      "previous": "2.860%"
+    },
+    {
+      "id": "313523-2026-09-07T22:45:00.000Z-Manufacturing-Sales-Volume-q/q",
+      "title": "Manufacturing Sales Volume q/q",
+      "country": "NZD",
+      "date": "2026-09-07T22:45:00.000Z",
+      "impact": "Low",
+      "forecast": "-0.2%",
+      "previous": "3.6%"
+    },
+    {
+      "id": "313524-2026-09-07T22:45:00.000Z-Manufacturing-Sales-q/q",
+      "title": "Manufacturing Sales q/q",
+      "country": "NZD",
+      "date": "2026-09-07T22:45:00.000Z",
+      "impact": "Low",
+      "forecast": "0.3%",
+      "previous": "2.8%"
+    },
+    {
+      "id": "317098-2026-09-07T23:30:00.000Z-Labor-Cash-Earnings-y/y",
+      "title": "Labor Cash Earnings y/y",
+      "country": "JPY",
+      "date": "2026-09-07T23:30:00.000Z",
+      "impact": "Low",
+      "forecast": "1.8%",
+      "previous": "3.4%"
+    },
+    {
+      "id": "317105-2026-09-07T23:30:00.000Z-Overtime-Pay-y/y",
+      "title": "Overtime Pay y/y",
+      "country": "JPY",
+      "date": "2026-09-07T23:30:00.000Z",
+      "impact": "Low",
+      "forecast": "2.1%",
+      "previous": "2.8%"
+    },
+    {
+      "id": "317112-2026-09-07T23:30:00.000Z-Real-Wage-y/y",
+      "title": "Real Wage y/y",
+      "country": "JPY",
+      "date": "2026-09-07T23:30:00.000Z",
+      "impact": "Low",
+      "forecast": "-0.7%",
+      "previous": "1.6%"
+    },
+    {
+      "id": "288952-2026-09-07T23:50:00.000Z-GDP-q/q",
+      "title": "GDP q/q",
+      "country": "JPY",
+      "date": "2026-09-07T23:50:00.000Z",
+      "impact": "High",
+      "forecast": "0.3%",
+      "previous": "0.3%"
+    },
+    {
+      "id": "288960-2026-09-07T23:50:00.000Z-GDP-Price-Index-y/y",
+      "title": "GDP Price Index y/y",
+      "country": "JPY",
+      "date": "2026-09-07T23:50:00.000Z",
+      "impact": "Medium",
+      "forecast": "2.6%",
+      "previous": "2.6%"
+    },
+    {
+      "id": "288968-2026-09-07T23:50:00.000Z-GDP-y/y",
+      "title": "GDP y/y",
+      "country": "JPY",
+      "date": "2026-09-07T23:50:00.000Z",
+      "impact": "Medium",
+      "forecast": "1.1%",
+      "previous": "1.1%"
+    },
+    {
+      "id": "288976-2026-09-07T23:50:00.000Z-Private-Non-Residential-Investment-q/q",
+      "title": "Private Non-Residential Investment q/q",
+      "country": "JPY",
+      "date": "2026-09-07T23:50:00.000Z",
+      "impact": "Low",
+      "forecast": "-1.2%",
+      "previous": "-1.2%"
+    },
+    {
+      "id": "288984-2026-09-07T23:50:00.000Z-Private-Consumption-q/q",
+      "title": "Private Consumption q/q",
+      "country": "JPY",
+      "date": "2026-09-07T23:50:00.000Z",
+      "impact": "Low",
+      "forecast": "0.0%",
+      "previous": "0.0%"
+    },
+    {
+      "id": "288992-2026-09-07T23:50:00.000Z-Net-Exports-Contribution-to-GDP-q/q",
+      "title": "Net Exports Contribution to GDP q/q",
+      "country": "JPY",
+      "date": "2026-09-07T23:50:00.000Z",
+      "impact": "Medium",
+      "forecast": "0.5%",
+      "previous": "0.5%"
+    },
+    {
+      "id": "280986-2026-09-07T23:50:00.000Z-BoJ-Bank-Lending-y/y",
+      "title": "BoJ Bank Lending y/y",
+      "country": "JPY",
+      "date": "2026-09-07T23:50:00.000Z",
+      "impact": "Low",
+      "forecast": "5.1%",
+      "previous": "5.4%"
+    },
+    {
+      "id": "296465-2026-09-07T23:50:00.000Z-Current-Account-n.s.a.",
+      "title": "Current Account n.s.a.",
+      "country": "JPY",
+      "date": "2026-09-07T23:50:00.000Z",
+      "impact": "Medium",
+      "forecast": "¥1001.2 B",
+      "previous": "¥-92.3 B"
+    },
+    {
+      "id": "296466-2026-09-07T23:50:00.000Z-Goods-Trade-Balance",
+      "title": "Goods Trade Balance",
+      "country": "JPY",
+      "date": "2026-09-07T23:50:00.000Z",
+      "impact": "Low",
+      "forecast": "¥348.4 B",
+      "previous": "¥-135.2 B"
+    },
+    {
+      "id": "296467-2026-09-07T23:50:00.000Z-Adjusted-Current-Account",
+      "title": "Adjusted Current Account",
+      "country": "JPY",
+      "date": "2026-09-07T23:50:00.000Z",
+      "impact": "Medium",
+      "forecast": "¥2981.2 B",
+      "previous": "¥1396.9 B"
+    },
+    {
+      "id": "317167-2026-09-08T01:30:00.000Z-NAB-Business-Confidence",
+      "title": "NAB Business Confidence",
+      "country": "AUD",
+      "date": "2026-09-08T01:30:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "317168-2026-09-08T01:30:00.000Z-NAB-Business-Conditions",
+      "title": "NAB Business Conditions",
+      "country": "AUD",
+      "date": "2026-09-08T01:30:00.000Z",
+      "impact": "Low"
+    },
+    {
+      "id": "296132-2026-09-08T05:00:00.000Z-Economy-Watchers-Index-for-Current-Conditions",
+      "title": "Economy Watchers Index for Current Conditions",
+      "country": "JPY",
+      "date": "2026-09-08T05:00:00.000Z",
+      "impact": "Low"
+    },
+    {
+      "id": "296133-2026-09-08T05:00:00.000Z-Economy-Watchers-Index-for-Future-Conditions",
+      "title": "Economy Watchers Index for Future Conditions",
+      "country": "JPY",
+      "date": "2026-09-08T05:00:00.000Z",
+      "impact": "Low"
+    },
+    {
+      "id": "317185-2026-09-08T06:00:00.000Z-Exports-m/m",
+      "title": "Exports m/m",
+      "country": "EUR",
+      "date": "2026-09-08T06:00:00.000Z",
+      "impact": "Low",
+      "forecast": "0.8%",
+      "previous": "0.9%"
+    },
+    {
+      "id": "317186-2026-09-08T06:00:00.000Z-Imports-m/m",
+      "title": "Imports m/m",
+      "country": "EUR",
+      "date": "2026-09-08T06:00:00.000Z",
+      "impact": "Low",
+      "forecast": "-0.9%",
+      "previous": "1.2%"
+    },
+    {
+      "id": "317187-2026-09-08T06:00:00.000Z-Trade-Balance",
+      "title": "Trade Balance",
+      "country": "EUR",
+      "date": "2026-09-08T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "€16.3 B",
+      "previous": "€14.5 B"
+    },
+    {
+      "id": "317202-2026-09-08T06:00:00.000Z-Trade-Balance-n.s.a.",
+      "title": "Trade Balance n.s.a.",
+      "country": "EUR",
+      "date": "2026-09-08T06:00:00.000Z",
+      "impact": "Low",
+      "forecast": "€15.4 B",
+      "previous": "€14.2 B"
+    },
+    {
+      "id": "301832-2026-09-08T06:45:00.000Z-Exports",
+      "title": "Exports",
+      "country": "EUR",
+      "date": "2026-09-08T06:45:00.000Z",
+      "impact": "Low",
+      "previous": "€54.537 B"
+    },
+    {
+      "id": "301833-2026-09-08T06:45:00.000Z-Imports",
+      "title": "Imports",
+      "country": "EUR",
+      "date": "2026-09-08T06:45:00.000Z",
+      "impact": "Low",
+      "previous": "€60.384 B"
+    },
+    {
+      "id": "301834-2026-09-08T06:45:00.000Z-Trade-Balance",
+      "title": "Trade Balance",
+      "country": "EUR",
+      "date": "2026-09-08T06:45:00.000Z",
+      "impact": "Low",
+      "forecast": "€-5.820 B",
+      "previous": "€-5.847 B"
+    },
+    {
+      "id": "285835-2026-09-08T08:40:00.000Z-3-Month-Letras-Auction",
+      "title": "3-Month Letras Auction",
+      "country": "EUR",
+      "date": "2026-09-08T08:40:00.000Z",
+      "impact": "Low",
+      "previous": "2.387%"
+    },
+    {
+      "id": "285859-2026-09-08T08:40:00.000Z-9-Month-Letras-Auction",
+      "title": "9-Month Letras Auction",
+      "country": "EUR",
+      "date": "2026-09-08T08:40:00.000Z",
+      "impact": "Low",
+      "previous": "2.605%"
+    },
+    {
+      "id": "280184-2026-09-08T14:00:00.000Z-CB-Employment-Trends-Index",
+      "title": "CB Employment Trends Index",
+      "country": "USD",
+      "date": "2026-09-08T14:00:00.000Z",
+      "impact": "Low",
+      "forecast": "107.02",
+      "previous": "107.71"
+    },
+    {
+      "id": "301535-2026-09-08T15:30:00.000Z-3-Month-Bill-Auction",
+      "title": "3-Month Bill Auction",
+      "country": "USD",
+      "date": "2026-09-08T15:30:00.000Z",
+      "impact": "Low",
+      "previous": "3.770%"
+    },
+    {
+      "id": "301548-2026-09-08T15:30:00.000Z-6-Month-Bill-Auction",
+      "title": "6-Month Bill Auction",
+      "country": "USD",
+      "date": "2026-09-08T15:30:00.000Z",
+      "impact": "Low",
+      "previous": "3.885%"
+    },
+    {
+      "id": "274478-2026-09-08T16:00:00.000Z-NFIB-Small-Business-Optimism",
+      "title": "NFIB Small Business Optimism",
+      "country": "USD",
+      "date": "2026-09-08T16:00:00.000Z",
+      "impact": "Low"
+    },
+    {
+      "id": "301590-2026-09-08T17:00:00.000Z-3-Year-Note-Auction",
+      "title": "3-Year Note Auction",
+      "country": "USD",
+      "date": "2026-09-08T17:00:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "280492-2026-09-08T19:00:00.000Z-Fed-Consumer-Credit-m/m",
+      "title": "Fed Consumer Credit m/m",
+      "country": "USD",
+      "date": "2026-09-08T19:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "$11.28 B",
+      "previous": "$14.17 B"
+    },
+    {
+      "id": "280980-2026-09-08T23:50:00.000Z-BoJ-M2-Money-Stock-y/y",
+      "title": "BoJ M2 Money Stock y/y",
+      "country": "JPY",
+      "date": "2026-09-08T23:50:00.000Z",
+      "impact": "Low",
+      "forecast": "2.0%",
+      "previous": "2.2%"
+    },
+    {
+      "id": "281025-2026-09-08T23:50:00.000Z-BoJ-M3-Money-Stock-y/y",
+      "title": "BoJ M3 Money Stock y/y",
+      "country": "JPY",
+      "date": "2026-09-08T23:50:00.000Z",
+      "impact": "Low",
+      "previous": "1.4%"
+    },
+    {
+      "id": "281031-2026-09-08T23:50:00.000Z-BoJ-L-Money-Stock-y/y",
+      "title": "BoJ L Money Stock y/y",
+      "country": "JPY",
+      "date": "2026-09-08T23:50:00.000Z",
+      "impact": "High",
+      "forecast": "4.5%",
+      "previous": "4.4%"
+    },
+    {
       "id": "fed-2026-09-16-FOMC-Statement",
       "title": "FOMC Statement",
       "country": "USD",
@@ -2310,6 +2624,20 @@
       "title": "FOMC Press Conference",
       "country": "USD",
       "date": "2026-09-16T18:30:00.000Z",
+      "impact": "High"
+    },
+    {
+      "id": "fed-2026-10-28-FOMC-Statement",
+      "title": "FOMC Statement",
+      "country": "USD",
+      "date": "2026-10-28T18:00:00.000Z",
+      "impact": "High"
+    },
+    {
+      "id": "fed-2026-10-28-FOMC-Press-Conference",
+      "title": "FOMC Press Conference",
+      "country": "USD",
+      "date": "2026-10-28T18:30:00.000Z",
       "impact": "High"
     }
   ]
