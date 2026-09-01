@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788282392826,
+  "updatedAt": 1788307010224,
   "source": "live",
   "count": 310,
   "events": [
@@ -809,7 +809,7 @@
       "date": "2026-09-01T22:45:00.000Z",
       "impact": "Low",
       "forecast": "0.9%",
-      "previous": "-3.6%"
+      "previous": "-3.7%"
     },
     {
       "id": "289308-2026-09-01T23:00:00.000Z-Ai-Group-Industry-Index",
