@@ -1,15 +1,8 @@
 {
-  "updatedAt": 1788229063841,
+  "updatedAt": 1788267577471,
   "source": "live",
   "count": 310,
   "events": [
-    {
-      "id": "301676-2026-08-29T00:00:00.000Z-Jackson-Hole-Economic-Symposium",
-      "title": "Jackson Hole Economic Symposium",
-      "country": "USD",
-      "date": "2026-08-29T00:00:00.000Z",
-      "impact": "Medium"
-    },
     {
       "id": "289105-2026-08-30T23:50:00.000Z-Retail-Sales-m/m",
       "title": "Retail Sales m/m",
@@ -346,7 +339,7 @@
       "date": "2026-09-01T06:00:00.000Z",
       "impact": "Medium",
       "forecast": "0.2%",
-      "previous": "0.1%"
+      "previous": "-0.1%"
     },
     {
       "id": "316756-2026-09-01T06:00:00.000Z-Nationwide-HPI-y/y",
@@ -355,7 +348,7 @@
       "date": "2026-09-01T06:00:00.000Z",
       "impact": "Medium",
       "forecast": "1.8%",
-      "previous": "1.8%"
+      "previous": "1.4%"
     },
     {
       "id": "306546-2026-09-01T06:30:00.000Z-RBA-Index-of-Commodity-Prices-y/y",
@@ -364,7 +357,7 @@
       "date": "2026-09-01T06:30:00.000Z",
       "impact": "Low",
       "forecast": "15.5%",
-      "previous": "15.4%"
+      "previous": "17.2%"
     },
     {
       "id": "316732-2026-09-01T06:30:00.000Z-Bbk-Executive-Board-Member-Mauderer-Speech",
@@ -380,7 +373,7 @@
       "date": "2026-09-01T06:30:00.000Z",
       "impact": "Low",
       "forecast": "0.5%",
-      "previous": "1.5%"
+      "previous": "1.9%"
     },
     {
       "id": "309671-2026-09-01T07:00:00.000Z-New-Car-Registrations-m/m",
@@ -414,7 +407,7 @@
       "date": "2026-09-01T07:30:00.000Z",
       "impact": "Medium",
       "forecast": "49.9",
-      "previous": "50.0"
+      "previous": "53.2"
     },
     {
       "id": "313665-2026-09-01T07:45:00.000Z-S&P-Global-Manufacturing-PMI",
@@ -477,7 +470,7 @@
       "date": "2026-09-01T08:30:00.000Z",
       "impact": "Low",
       "forecast": "6.2%",
-      "previous": "5.7%"
+      "previous": "5.8%"
     },
     {
       "id": "276276-2026-09-01T08:30:00.000Z-BoE-Consumer-Credit-m/m",
@@ -486,7 +479,7 @@
       "date": "2026-09-01T08:30:00.000Z",
       "impact": "Low",
       "forecast": "£1.720 B",
-      "previous": "£1.807 B"
+      "previous": "£1.865 B"
     },
     {
       "id": "276286-2026-09-01T08:30:00.000Z-BoE-M4-Money-Supply-m/m",
@@ -495,7 +488,7 @@
       "date": "2026-09-01T08:30:00.000Z",
       "impact": "Low",
       "forecast": "0.5%",
-      "previous": "0.8%"
+      "previous": "0.9%"
     },
     {
       "id": "276296-2026-09-01T08:30:00.000Z-BoE-Mortgage-Approvals",
@@ -504,7 +497,7 @@
       "date": "2026-09-01T08:30:00.000Z",
       "impact": "Low",
       "forecast": "60.741 K",
-      "previous": "58.200 K"
+      "previous": "58.215 K"
     },
     {
       "id": "276306-2026-09-01T08:30:00.000Z-BoE-Mortgage-Lending-m/m",
@@ -513,7 +506,7 @@
       "date": "2026-09-01T08:30:00.000Z",
       "impact": "Low",
       "forecast": "£5.671 B",
-      "previous": "£7.727 B"
+      "previous": "£7.677 B"
     },
     {
       "id": "276316-2026-09-01T08:30:00.000Z-BoE-Net-Lending-to-Individuals-m/m",
@@ -522,7 +515,7 @@
       "date": "2026-09-01T08:30:00.000Z",
       "impact": "Low",
       "forecast": "£7.808 B",
-      "previous": "£9.533 B"
+      "previous": "£9.542 B"
     },
     {
       "id": "313670-2026-09-01T08:30:00.000Z-S&P-Global/CIPS-Manufacturing-PMI",
@@ -532,22 +525,6 @@
       "impact": "Medium",
       "forecast": "51.5",
       "previous": "51.5"
-    },
-    {
-      "id": "285847-2026-09-01T08:40:00.000Z-6-Month-Letras-Auction",
-      "title": "6-Month Letras Auction",
-      "country": "EUR",
-      "date": "2026-09-01T08:40:00.000Z",
-      "impact": "Low",
-      "previous": "2.496%"
-    },
-    {
-      "id": "285871-2026-09-01T08:40:00.000Z-12-Month-Letras-Auction",
-      "title": "12-Month Letras Auction",
-      "country": "EUR",
-      "date": "2026-09-01T08:40:00.000Z",
-      "impact": "Low",
-      "previous": "2.663%"
     },
     {
       "id": "281380-2026-09-01T09:00:00.000Z-CPI-m/m",
@@ -628,7 +605,7 @@
       "date": "2026-09-01T09:00:00.000Z",
       "impact": "Medium",
       "forecast": "6.4%",
-      "previous": "6.3%"
+      "previous": "6.4%"
     },
     {
       "id": "313361-2026-09-01T09:00:00.000Z-CPI-excl.-Energy-and-Unprocessed-Food-m/m",
@@ -665,10 +642,26 @@
       "previous": "102.84"
     },
     {
-      "id": "280391-2026-09-01T09:30:00.000Z-5-Year-Note-Auction",
+      "id": "285847-2026-09-01T09:13:00.000Z-6-Month-Letras-Auction",
+      "title": "6-Month Letras Auction",
+      "country": "EUR",
+      "date": "2026-09-01T09:13:00.000Z",
+      "impact": "Low",
+      "previous": "2.496%"
+    },
+    {
+      "id": "285871-2026-09-01T09:13:00.000Z-12-Month-Letras-Auction",
+      "title": "12-Month Letras Auction",
+      "country": "EUR",
+      "date": "2026-09-01T09:13:00.000Z",
+      "impact": "Low",
+      "previous": "2.663%"
+    },
+    {
+      "id": "280391-2026-09-01T09:41:00.000Z-5-Year-Note-Auction",
       "title": "5-Year Note Auction",
       "country": "EUR",
-      "date": "2026-09-01T09:30:00.000Z",
+      "date": "2026-09-01T09:41:00.000Z",
       "impact": "Low",
       "previous": "2.93%"
     },
@@ -1113,6 +1106,13 @@
       "title": "Fed Beige Book",
       "country": "USD",
       "date": "2026-09-02T18:00:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "ff-2026-09-02T20:10:00.000Z-RBNZ-Gov-Breman-Speaks",
+      "title": "RBNZ Gov Breman Speaks",
+      "country": "NZD",
+      "date": "2026-09-02T20:10:00.000Z",
       "impact": "Medium"
     },
     {
