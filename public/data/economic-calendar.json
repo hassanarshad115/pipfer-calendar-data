@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788352084479,
+  "updatedAt": 1788368244726,
   "source": "live",
   "count": 310,
   "events": [
@@ -984,7 +984,7 @@
       "date": "2026-09-02T14:00:00.000Z",
       "impact": "Medium",
       "forecast": "-0.1%",
-      "previous": "-0.3%"
+      "previous": "-0.2%"
     },
     {
       "id": "270403-2026-09-02T14:00:00.000Z-Factory-Orders-excl.-Transportation-m/m",
@@ -993,7 +993,7 @@
       "date": "2026-09-02T14:00:00.000Z",
       "impact": "Low",
       "forecast": "0.0%",
-      "previous": "-0.4%"
+      "previous": "-0.1%"
     },
     {
       "id": "270435-2026-09-02T14:00:00.000Z-Nondefense-Capital-Goods-Shipments-excl.-Aircraft-m/m",
@@ -1012,7 +1012,7 @@
       "impact": "High",
       "forecast": "5.822 M",
       "previous": "0.095 M",
-      "actual": "+0.095 M",
+      "actual": "-4.450 M",
       "actualSource": "official"
     },
     {
