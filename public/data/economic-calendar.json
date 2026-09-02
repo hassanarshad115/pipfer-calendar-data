@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788307010224,
+  "updatedAt": 1788313161139,
   "source": "live",
   "count": 310,
   "events": [
@@ -869,7 +869,7 @@
       "date": "2026-09-02T01:30:00.000Z",
       "impact": "Low",
       "forecast": "0.0%",
-      "previous": "3.0%"
+      "previous": "3.1%"
     },
     {
       "id": "302104-2026-09-02T01:30:00.000Z-GDP-Chain-Price-Index-q/q",
@@ -887,7 +887,7 @@
       "date": "2026-09-02T01:30:00.000Z",
       "impact": "Low",
       "forecast": "0.4%",
-      "previous": "0.3%"
+      "previous": "0.1%"
     },
     {
       "id": "314375-2026-09-02T01:30:00.000Z-BoJ-Board-Member-Takata-Speech",
