@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788454255440,
+  "updatedAt": 1788479835029,
   "source": "live",
   "count": 312,
   "events": [
@@ -1717,7 +1717,7 @@
       "date": "2026-09-03T23:30:00.000Z",
       "impact": "Medium",
       "forecast": "-3.9%",
-      "previous": "-6.4%"
+      "previous": "-6.3%"
     },
     {
       "id": "317192-2026-09-04T06:00:00.000Z-Factory-Orders-m/m",
