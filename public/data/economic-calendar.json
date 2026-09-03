@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788438621775,
+  "updatedAt": 1788454255440,
   "source": "live",
   "count": 312,
   "events": [
@@ -1471,7 +1471,7 @@
       "country": "CAD",
       "date": "2026-09-03T12:30:00.000Z",
       "impact": "Low",
-      "previous": "$73.631 B"
+      "previous": "$73.758 B"
     },
     {
       "id": "278139-2026-09-03T12:30:00.000Z-Exports",
@@ -1479,7 +1479,7 @@
       "country": "CAD",
       "date": "2026-09-03T12:30:00.000Z",
       "impact": "Low",
-      "previous": "$77.486 B"
+      "previous": "$77.959 B"
     },
     {
       "id": "278153-2026-09-03T12:30:00.000Z-Trade-Balance",
@@ -1488,7 +1488,7 @@
       "date": "2026-09-03T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "$3.831 B",
-      "previous": "$3.855 B"
+      "previous": "$4.201 B"
     },
     {
       "id": "278240-2026-09-03T12:30:00.000Z-Labor-Productivity-q/q",
@@ -1497,7 +1497,7 @@
       "date": "2026-09-03T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "-0.2%",
-      "previous": "-0.5%"
+      "previous": "-0.4%"
     },
     {
       "id": "270163-2026-09-03T12:30:00.000Z-Trade-Balance",
@@ -1507,7 +1507,7 @@
       "impact": "Medium",
       "forecast": "$-75.770 B",
       "previous": "$-71.182 B",
-      "actual": "-73.3 B",
+      "actual": "-88.6 B",
       "actualSource": "official"
     },
     {
@@ -1558,7 +1558,7 @@
       "date": "2026-09-03T12:30:00.000Z",
       "impact": "High",
       "forecast": "213 K",
-      "previous": "203 K"
+      "previous": "204 K"
     },
     {
       "id": "313650-2026-09-03T12:30:00.000Z-Continuing-Jobless-Claims",
@@ -1576,7 +1576,7 @@
       "date": "2026-09-03T12:30:00.000Z",
       "impact": "Low",
       "forecast": "205.816 K",
-      "previous": "205.500 K"
+      "previous": "205.750 K"
     },
     {
       "id": "ff-2026-09-03T12:30:00.000Z-FOMC-Member-Waller-Speaks",
