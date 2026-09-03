@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788393553595,
+  "updatedAt": 1788399871254,
   "source": "live",
   "count": 312,
   "events": [
@@ -1217,7 +1217,7 @@
       "date": "2026-09-03T01:00:00.000Z",
       "impact": "Low",
       "forecast": "0.0%",
-      "previous": "-3.9%"
+      "previous": "-4.0%"
     },
     {
       "id": "ff-2026-09-03T01:15:00.000Z-RBA-Assist-Gov-Jones-Speaks",
@@ -1232,7 +1232,7 @@
       "country": "AUD",
       "date": "2026-09-03T01:30:00.000Z",
       "impact": "Low",
-      "previous": "9.6%"
+      "previous": "10.1%"
     },
     {
       "id": "302099-2026-09-03T01:30:00.000Z-Imports-m/m",
@@ -1240,7 +1240,7 @@
       "country": "AUD",
       "date": "2026-09-03T01:30:00.000Z",
       "impact": "Low",
-      "previous": "-0.2%"
+      "previous": "-0.7%"
     },
     {
       "id": "302100-2026-09-03T01:30:00.000Z-Trade-Balance",
@@ -1249,7 +1249,7 @@
       "date": "2026-09-03T01:30:00.000Z",
       "impact": "Medium",
       "forecast": "$0.336 B",
-      "previous": "$1.929 B"
+      "previous": "$2.341 B"
     },
     {
       "id": "313410-2026-09-03T03:35:00.000Z-30-Year-JGB-Auction",
@@ -1506,9 +1506,7 @@
       "date": "2026-09-03T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "$-75.770 B",
-      "previous": "$-73.261 B",
-      "actual": "-73.3 B",
-      "actualSource": "official"
+      "previous": "$-73.261 B"
     },
     {
       "id": "270451-2026-09-03T12:30:00.000Z-Exports",
