@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1788524817877,
+  "updatedAt": 1788540108055,
   "source": "live",
-  "count": 312,
+  "count": 313,
   "events": [
     {
       "id": "289105-2026-08-30T23:50:00.000Z-Retail-Sales-m/m",
@@ -1910,7 +1910,7 @@
       "date": "2026-09-04T12:30:00.000Z",
       "impact": "High",
       "forecast": "41 K",
-      "previous": "-23 K"
+      "previous": "21 K"
     },
     {
       "id": "277635-2026-09-04T12:30:00.000Z-Participation-Rate",
@@ -1928,7 +1928,7 @@
       "date": "2026-09-04T12:30:00.000Z",
       "impact": "High",
       "forecast": "0.2%",
-      "previous": "0.1%"
+      "previous": "0.2%"
     },
     {
       "id": "277659-2026-09-04T12:30:00.000Z-Average-Hourly-Earnings-y/y",
@@ -1955,7 +1955,7 @@
       "date": "2026-09-04T12:30:00.000Z",
       "impact": "Low",
       "forecast": "3 K",
-      "previous": "-53 K"
+      "previous": "-50 K"
     },
     {
       "id": "277695-2026-09-04T12:30:00.000Z-Private-Nonfarm-Payrolls",
@@ -1964,7 +1964,7 @@
       "date": "2026-09-04T12:30:00.000Z",
       "impact": "Medium",
       "forecast": "48 K",
-      "previous": "30 K"
+      "previous": "71 K"
     },
     {
       "id": "277707-2026-09-04T12:30:00.000Z-U6-Unemployment-Rate",
@@ -1982,7 +1982,7 @@
       "date": "2026-09-04T12:30:00.000Z",
       "impact": "Low",
       "forecast": "-3 K",
-      "previous": "5 K"
+      "previous": "14 K"
     },
     {
       "id": "315179-2026-09-04T14:00:00.000Z-Ivey-PMI",
@@ -2160,6 +2160,13 @@
       "date": "2026-09-04T19:30:00.000Z",
       "impact": "Medium",
       "previous": "-36.4 K"
+    },
+    {
+      "id": "ff-2026-09-04T22:00:00.000Z-FOMC-Member-Goolsbee-Speaks",
+      "title": "FOMC Member Goolsbee Speaks",
+      "country": "USD",
+      "date": "2026-09-04T22:00:00.000Z",
+      "impact": "Medium"
     },
     {
       "id": "305993-2026-09-06T23:50:00.000Z-International-Reserves",
