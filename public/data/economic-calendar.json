@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1788540108055,
+  "updatedAt": 1788566030642,
   "source": "live",
-  "count": 313,
+  "count": 315,
   "events": [
     {
       "id": "289105-2026-08-30T23:50:00.000Z-Retail-Sales-m/m",
@@ -1827,13 +1827,6 @@
       "impact": "High"
     },
     {
-      "id": "316788-2026-09-04T09:00:00.000Z-ECB-Executive-Board-Member-Lane-Speech",
-      "title": "ECB Executive Board Member Lane Speech",
-      "country": "EUR",
-      "date": "2026-09-04T09:00:00.000Z",
-      "impact": "Medium"
-    },
-    {
       "id": "313352-2026-09-04T09:00:00.000Z-Retail-Sales-m/m",
       "title": "Retail Sales m/m",
       "country": "EUR",
@@ -1850,6 +1843,13 @@
       "impact": "Low",
       "forecast": "1.2%",
       "previous": "1.4%"
+    },
+    {
+      "id": "318161-2026-09-04T09:10:00.000Z-ECB-Executive-Board-Member-Lane-Speech",
+      "title": "ECB Executive Board Member Lane Speech",
+      "country": "EUR",
+      "date": "2026-09-04T09:10:00.000Z",
+      "impact": "Medium"
     },
     {
       "id": "278063-2026-09-04T12:30:00.000Z-Employment-Change",
@@ -2160,13 +2160,6 @@
       "date": "2026-09-04T19:30:00.000Z",
       "impact": "Medium",
       "previous": "-36.4 K"
-    },
-    {
-      "id": "ff-2026-09-04T22:00:00.000Z-FOMC-Member-Goolsbee-Speaks",
-      "title": "FOMC Member Goolsbee Speaks",
-      "country": "USD",
-      "date": "2026-09-04T22:00:00.000Z",
-      "impact": "Medium"
     },
     {
       "id": "305993-2026-09-06T23:50:00.000Z-International-Reserves",
@@ -2560,6 +2553,20 @@
       "previous": "2.605%"
     },
     {
+      "id": "318216-2026-09-08T13:15:00.000Z-BoE-Deputy-Governor-Markets-and-Banking-Ramsden-Speech",
+      "title": "BoE Deputy Governor Markets and Banking Ramsden Speech",
+      "country": "GBP",
+      "date": "2026-09-08T13:15:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "318217-2026-09-08T13:15:00.000Z-BoE-Governor-Bailey-Speech",
+      "title": "BoE Governor Bailey Speech",
+      "country": "GBP",
+      "date": "2026-09-08T13:15:00.000Z",
+      "impact": "High"
+    },
+    {
       "id": "280184-2026-09-08T14:00:00.000Z-CB-Employment-Trends-Index",
       "title": "CB Employment Trends Index",
       "country": "USD",
@@ -2567,6 +2574,13 @@
       "impact": "Low",
       "forecast": "107.02",
       "previous": "107.71"
+    },
+    {
+      "id": "318166-2026-09-08T15:00:00.000Z-ECB-Executive-Board-Member-Elderson-Speech",
+      "title": "ECB Executive Board Member Elderson Speech",
+      "country": "EUR",
+      "date": "2026-09-08T15:00:00.000Z",
+      "impact": "Medium"
     },
     {
       "id": "301535-2026-09-08T15:30:00.000Z-3-Month-Bill-Auction",
