@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788486106276,
+  "updatedAt": 1788524817877,
   "source": "live",
   "count": 312,
   "events": [
@@ -1726,7 +1726,7 @@
       "date": "2026-09-04T06:00:00.000Z",
       "impact": "Medium",
       "forecast": "2.9%",
-      "previous": "-3.8%"
+      "previous": "3.7%"
     },
     {
       "id": "317193-2026-09-04T06:00:00.000Z-Factory-Orders-y/y",
@@ -1735,7 +1735,7 @@
       "date": "2026-09-04T06:00:00.000Z",
       "impact": "Medium",
       "forecast": "-2.7%",
-      "previous": "1.6%"
+      "previous": "7.2%"
     },
     {
       "id": "313986-2026-09-04T07:30:00.000Z-S&P-Global-Construction-PMI",
@@ -1776,7 +1776,7 @@
       "date": "2026-09-04T08:00:00.000Z",
       "impact": "Low",
       "forecast": "-1.7%",
-      "previous": "-0.1%"
+      "previous": "-0.2%"
     },
     {
       "id": "281557-2026-09-04T08:00:00.000Z-Retail-Sales-y/y",
@@ -1840,7 +1840,7 @@
       "date": "2026-09-04T09:00:00.000Z",
       "impact": "Low",
       "forecast": "-0.2%",
-      "previous": "-0.3%"
+      "previous": "0.2%"
     },
     {
       "id": "313353-2026-09-04T09:00:00.000Z-Retail-Sales-y/y",
@@ -1849,7 +1849,7 @@
       "date": "2026-09-04T09:00:00.000Z",
       "impact": "Low",
       "forecast": "1.2%",
-      "previous": "0.7%"
+      "previous": "1.4%"
     },
     {
       "id": "278063-2026-09-04T12:30:00.000Z-Employment-Change",
