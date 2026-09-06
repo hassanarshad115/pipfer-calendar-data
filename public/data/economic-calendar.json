@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1788658415155,
+  "updatedAt": 1788695596661,
   "source": "live",
-  "count": 315,
+  "count": 313,
   "events": [
     {
       "id": "289105-2026-08-30T23:50:00.000Z-Retail-Sales-m/m",
@@ -673,13 +673,6 @@
       "impact": "Medium"
     },
     {
-      "id": "ff-2026-09-01T13:05:00.000Z-FOMC-Member-Barr-Speaks",
-      "title": "FOMC Member Barr Speaks",
-      "country": "USD",
-      "date": "2026-09-01T13:05:00.000Z",
-      "impact": "Medium"
-    },
-    {
       "id": "313660-2026-09-01T13:30:00.000Z-S&P-Global-Manufacturing-PMI",
       "title": "S&P Global Manufacturing PMI",
       "country": "CAD",
@@ -912,13 +905,6 @@
       "previous": "2.50%"
     },
     {
-      "id": "ff-2026-09-02T03:00:00.000Z-RBNZ-Press-Conference",
-      "title": "RBNZ Press Conference",
-      "country": "NZD",
-      "date": "2026-09-02T03:00:00.000Z",
-      "impact": "High"
-    },
-    {
       "id": "309919-2026-09-02T06:45:00.000Z-Government-Budget-Balance",
       "title": "Government Budget Balance",
       "country": "EUR",
@@ -1095,24 +1081,10 @@
       "previous": "0.2%"
     },
     {
-      "id": "ff-2026-09-02T14:30:00.000Z-BOC-Press-Conference",
-      "title": "BOC Press Conference",
-      "country": "CAD",
-      "date": "2026-09-02T14:30:00.000Z",
-      "impact": "High"
-    },
-    {
       "id": "280291-2026-09-02T18:00:00.000Z-Fed-Beige-Book",
       "title": "Fed Beige Book",
       "country": "USD",
       "date": "2026-09-02T18:00:00.000Z",
-      "impact": "Medium"
-    },
-    {
-      "id": "ff-2026-09-02T20:10:00.000Z-RBNZ-Gov-Breman-Speaks",
-      "title": "RBNZ Gov Breman Speaks",
-      "country": "NZD",
-      "date": "2026-09-02T20:10:00.000Z",
       "impact": "Medium"
     },
     {
@@ -1220,13 +1192,6 @@
       "previous": "-4.0%"
     },
     {
-      "id": "ff-2026-09-03T01:15:00.000Z-RBA-Assist-Gov-Jones-Speaks",
-      "title": "RBA Assist Gov Jones Speaks",
-      "country": "AUD",
-      "date": "2026-09-03T01:15:00.000Z",
-      "impact": "Medium"
-    },
-    {
       "id": "302098-2026-09-03T01:30:00.000Z-Exports-m/m",
       "title": "Exports m/m",
       "country": "AUD",
@@ -1258,13 +1223,6 @@
       "date": "2026-09-03T03:35:00.000Z",
       "impact": "Low",
       "previous": "3.937%"
-    },
-    {
-      "id": "ff-2026-09-03T05:15:00.000Z-RBA-Assist-Gov-Hunter-Speaks",
-      "title": "RBA Assist Gov Hunter Speaks",
-      "country": "AUD",
-      "date": "2026-09-03T05:15:00.000Z",
-      "impact": "Medium"
     },
     {
       "id": "270613-2026-09-03T06:30:00.000Z-CPI-m/m",
@@ -1579,13 +1537,6 @@
       "previous": "205.750 K"
     },
     {
-      "id": "ff-2026-09-03T12:30:00.000Z-FOMC-Member-Waller-Speaks",
-      "title": "FOMC Member Waller Speaks",
-      "country": "USD",
-      "date": "2026-09-03T12:30:00.000Z",
-      "impact": "Medium"
-    },
-    {
       "id": "313898-2026-09-03T13:45:00.000Z-S&P-Global-Services-PMI",
       "title": "S&P Global Services PMI",
       "country": "USD",
@@ -1685,20 +1636,6 @@
       "title": "BoE MPC Member Pill Speech",
       "country": "GBP",
       "date": "2026-09-03T17:15:00.000Z",
-      "impact": "Medium"
-    },
-    {
-      "id": "ff-2026-09-03T19:00:00.000Z-FOMC-Member-Hammack-Speaks",
-      "title": "FOMC Member Hammack Speaks",
-      "country": "USD",
-      "date": "2026-09-03T19:00:00.000Z",
-      "impact": "Medium"
-    },
-    {
-      "id": "ff-2026-09-03T19:55:00.000Z-FOMC-Member-Goolsbee-Speaks",
-      "title": "FOMC Member Goolsbee Speaks",
-      "country": "USD",
-      "date": "2026-09-03T19:55:00.000Z",
       "impact": "Medium"
     },
     {
@@ -1815,13 +1752,6 @@
     {
       "id": "316081-2026-09-04T08:50:00.000Z-BoE-Governor-Bailey-Speech",
       "title": "BoE Governor Bailey Speech",
-      "country": "GBP",
-      "date": "2026-09-04T08:50:00.000Z",
-      "impact": "High"
-    },
-    {
-      "id": "ff-2026-09-04T08:50:00.000Z-BOE-Gov-Bailey-Speaks",
-      "title": "BOE Gov Bailey Speaks",
       "country": "GBP",
       "date": "2026-09-04T08:50:00.000Z",
       "impact": "High"
@@ -2462,6 +2392,13 @@
       "impact": "Low"
     },
     {
+      "id": "ff-2026-09-08T03:20:00.000Z-RBA-Assist-Gov-Hunter-Speaks",
+      "title": "RBA Assist Gov Hunter Speaks",
+      "country": "AUD",
+      "date": "2026-09-08T03:20:00.000Z",
+      "impact": "Medium"
+    },
+    {
       "id": "296132-2026-09-08T05:00:00.000Z-Economy-Watchers-Index-for-Current-Conditions",
       "title": "Economy Watchers Index for Current Conditions",
       "country": "JPY",
@@ -2551,6 +2488,13 @@
       "date": "2026-09-08T08:40:00.000Z",
       "impact": "Low",
       "previous": "2.605%"
+    },
+    {
+      "id": "ff-2026-09-08T09:30:00.000Z-RBA-Deputy-Gov-Hauser-Speaks",
+      "title": "RBA Deputy Gov Hauser Speaks",
+      "country": "AUD",
+      "date": "2026-09-08T09:30:00.000Z",
+      "impact": "Medium"
     },
     {
       "id": "318216-2026-09-08T13:15:00.000Z-BoE-Deputy-Governor-Markets-and-Banking-Ramsden-Speech",
@@ -2646,6 +2590,50 @@
       "impact": "High",
       "forecast": "4.5%",
       "previous": "4.4%"
+    },
+    {
+      "id": "ff-2026-09-10T12:15:00.000Z-Monetary-Policy-Statement",
+      "title": "Monetary Policy Statement",
+      "country": "EUR",
+      "date": "2026-09-10T12:15:00.000Z",
+      "impact": "High"
+    },
+    {
+      "id": "ff-2026-09-10T12:45:00.000Z-ECB-Press-Conference",
+      "title": "ECB Press Conference",
+      "country": "EUR",
+      "date": "2026-09-10T12:45:00.000Z",
+      "impact": "High"
+    },
+    {
+      "id": "ff-2026-09-11T09:15:00.000Z-SNB-Chairman-Schlegel-Speaks",
+      "title": "SNB Chairman Schlegel Speaks",
+      "country": "CHF",
+      "date": "2026-09-11T09:15:00.000Z",
+      "impact": "Medium"
+    },
+    {
+      "id": "ff-2026-09-11T15:00:00.000Z-Fed-Monetary-Policy-Report",
+      "title": "Fed Monetary Policy Report",
+      "country": "USD",
+      "date": "2026-09-11T15:00:00.000Z",
+      "impact": "High"
+    },
+    {
+      "id": "ff-2026-09-11T18:00:00.000Z-Federal-Budget-Balance",
+      "title": "Federal Budget Balance",
+      "country": "USD",
+      "date": "2026-09-11T18:00:00.000Z",
+      "impact": "Low",
+      "forecast": "-202.4B",
+      "previous": "-432.3B"
+    },
+    {
+      "id": "ff-2026-09-12T07:30:00.000Z-ECB-President-Lagarde-Speaks",
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-09-12T07:30:00.000Z",
+      "impact": "Medium"
     },
     {
       "id": "fed-2026-09-16-FOMC-Statement",
