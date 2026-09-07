@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1788744716703,
+  "updatedAt": 1788789231549,
   "source": "live",
-  "count": 237,
+  "count": 240,
   "events": [
     {
       "id": "305993-2026-09-06T23:50:00.000Z-International-Reserves",
@@ -32,7 +32,7 @@
       "date": "2026-09-07T01:30:00.000Z",
       "impact": "Low",
       "forecast": "-0.7%",
-      "previous": "2.0%"
+      "previous": "1.9%"
     },
     {
       "id": "304591-2026-09-07T05:00:00.000Z-Coincident-Index",
@@ -41,7 +41,7 @@
       "date": "2026-09-07T05:00:00.000Z",
       "impact": "Low",
       "forecast": "116.2",
-      "previous": "118.5"
+      "previous": "118.9"
     },
     {
       "id": "304593-2026-09-07T05:00:00.000Z-Leading-Index",
@@ -50,7 +50,7 @@
       "date": "2026-09-07T05:00:00.000Z",
       "impact": "Low",
       "forecast": "117.4",
-      "previous": "116.5"
+      "previous": "116.2"
     },
     {
       "id": "304595-2026-09-07T05:00:00.000Z-Coincident-Index-m/m",
@@ -93,7 +93,7 @@
       "date": "2026-09-07T06:00:00.000Z",
       "impact": "Medium",
       "forecast": "-0.4%",
-      "previous": "0.4%"
+      "previous": "0.0%"
     },
     {
       "id": "317189-2026-09-07T06:00:00.000Z-Industrial-Production-y/y",
@@ -110,7 +110,7 @@
       "country": "CHF",
       "date": "2026-09-07T07:00:00.000Z",
       "impact": "Low",
-      "previous": "₣768.260 B"
+      "previous": "₣768.143 B"
     },
     {
       "id": "266345-2026-09-07T08:30:00.000Z-Sentix-Investor-Confidence",
@@ -122,35 +122,26 @@
       "previous": "0.9"
     },
     {
-      "id": "309599-2026-09-07T10:30:00.000Z-Consumer-Confidence",
-      "title": "Consumer Confidence",
-      "country": "EUR",
-      "date": "2026-09-07T10:30:00.000Z",
-      "impact": "Low",
-      "forecast": "77.4",
-      "previous": "81.2"
-    },
-    {
-      "id": "313566-2026-09-07T12:50:00.000Z-3-Month-BTF-Auction",
+      "id": "313566-2026-09-07T12:55:00.000Z-3-Month-BTF-Auction",
       "title": "3-Month BTF Auction",
       "country": "EUR",
-      "date": "2026-09-07T12:50:00.000Z",
+      "date": "2026-09-07T12:55:00.000Z",
       "impact": "Low",
       "previous": "2.533%"
     },
     {
-      "id": "313570-2026-09-07T12:50:00.000Z-6-Month-BTF-Auction",
+      "id": "313570-2026-09-07T12:55:00.000Z-6-Month-BTF-Auction",
       "title": "6-Month BTF Auction",
       "country": "EUR",
-      "date": "2026-09-07T12:50:00.000Z",
+      "date": "2026-09-07T12:55:00.000Z",
       "impact": "Low",
       "previous": "2.655%"
     },
     {
-      "id": "313574-2026-09-07T12:50:00.000Z-12-Month-BTF-Auction",
+      "id": "313574-2026-09-07T12:55:00.000Z-12-Month-BTF-Auction",
       "title": "12-Month BTF Auction",
       "country": "EUR",
-      "date": "2026-09-07T12:50:00.000Z",
+      "date": "2026-09-07T12:55:00.000Z",
       "impact": "Low",
       "previous": "2.860%"
     },
@@ -409,6 +400,15 @@
       "impact": "Medium"
     },
     {
+      "id": "318397-2026-09-08T10:30:00.000Z-Consumer-Confidence",
+      "title": "Consumer Confidence",
+      "country": "EUR",
+      "date": "2026-09-08T10:30:00.000Z",
+      "impact": "Low",
+      "forecast": "77.4",
+      "previous": "81.2"
+    },
+    {
       "id": "318216-2026-09-08T13:15:00.000Z-BoE-Deputy-Governor-Markets-and-Banking-Ramsden-Speech",
       "title": "BoE Deputy Governor Markets and Banking Ramsden Speech",
       "country": "GBP",
@@ -421,6 +421,13 @@
       "country": "GBP",
       "date": "2026-09-08T13:15:00.000Z",
       "impact": "High"
+    },
+    {
+      "id": "ff-2026-09-08T13:15:00.000Z-Monetary-Policy-Report-Hearings",
+      "title": "Monetary Policy Report Hearings",
+      "country": "GBP",
+      "date": "2026-09-08T13:15:00.000Z",
+      "impact": "Medium"
     },
     {
       "id": "280184-2026-09-08T14:00:00.000Z-CB-Employment-Trends-Index",
@@ -555,6 +562,13 @@
       "country": "EUR",
       "date": "2026-09-09T17:00:00.000Z",
       "impact": "High"
+    },
+    {
+      "id": "ff-2026-09-09T17:00:00.000Z-ECB-President-Lagarde-Speaks",
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-09-09T17:00:00.000Z",
+      "impact": "Medium"
     },
     {
       "id": "294601-2026-09-09T23:50:00.000Z-Foreign-Bond-Investment",
@@ -1223,6 +1237,13 @@
       "impact": "High"
     },
     {
+      "id": "ff-2026-09-11T14:00:00.000Z-ECB-President-Lagarde-Speaks",
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-09-11T14:00:00.000Z",
+      "impact": "Medium"
+    },
+    {
       "id": "314972-2026-09-11T15:00:00.000Z-Cleveland-Fed-Median-CPI-m/m",
       "title": "Cleveland Fed Median CPI m/m",
       "country": "USD",
@@ -1592,21 +1613,24 @@
       "title": "3-Month BTF Auction",
       "country": "EUR",
       "date": "2026-09-14T12:50:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "2.540%"
     },
     {
       "id": "313571-2026-09-14T12:50:00.000Z-6-Month-BTF-Auction",
       "title": "6-Month BTF Auction",
       "country": "EUR",
       "date": "2026-09-14T12:50:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "2.720%"
     },
     {
       "id": "313575-2026-09-14T12:50:00.000Z-12-Month-BTF-Auction",
       "title": "12-Month BTF Auction",
       "country": "EUR",
       "date": "2026-09-14T12:50:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "2.940%"
     },
     {
       "id": "301536-2026-09-14T15:30:00.000Z-3-Month-Bill-Auction",
