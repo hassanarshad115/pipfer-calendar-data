@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788831723341,
+  "updatedAt": 1788870785518,
   "source": "live",
   "count": 225,
   "events": [
@@ -306,14 +306,16 @@
       "title": "Economy Watchers Index for Current Conditions",
       "country": "JPY",
       "date": "2026-09-08T05:00:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "45.7"
     },
     {
       "id": "296133-2026-09-08T05:00:00.000Z-Economy-Watchers-Index-for-Future-Conditions",
       "title": "Economy Watchers Index for Future Conditions",
       "country": "JPY",
       "date": "2026-09-08T05:00:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "45.8"
     },
     {
       "id": "317185-2026-09-08T06:00:00.000Z-Exports-m/m",
@@ -331,7 +333,7 @@
       "date": "2026-09-08T06:00:00.000Z",
       "impact": "Low",
       "forecast": "-0.9%",
-      "previous": "1.2%"
+      "previous": "4.5%"
     },
     {
       "id": "317187-2026-09-08T06:00:00.000Z-Trade-Balance",
@@ -340,7 +342,7 @@
       "date": "2026-09-08T06:00:00.000Z",
       "impact": "Medium",
       "forecast": "€16.3 B",
-      "previous": "€14.5 B"
+      "previous": "€15.4 B"
     },
     {
       "id": "317202-2026-09-08T06:00:00.000Z-Trade-Balance-n.s.a.",
@@ -349,7 +351,7 @@
       "date": "2026-09-08T06:00:00.000Z",
       "impact": "Low",
       "forecast": "€15.4 B",
-      "previous": "€14.2 B"
+      "previous": "€18.7 B"
     },
     {
       "id": "301832-2026-09-08T06:45:00.000Z-Exports",
@@ -357,7 +359,7 @@
       "country": "EUR",
       "date": "2026-09-08T06:45:00.000Z",
       "impact": "Low",
-      "previous": "€54.537 B"
+      "previous": "€54.488 B"
     },
     {
       "id": "301833-2026-09-08T06:45:00.000Z-Imports",
@@ -365,7 +367,7 @@
       "country": "EUR",
       "date": "2026-09-08T06:45:00.000Z",
       "impact": "Low",
-      "previous": "€60.384 B"
+      "previous": "€60.239 B"
     },
     {
       "id": "301834-2026-09-08T06:45:00.000Z-Trade-Balance",
@@ -374,21 +376,21 @@
       "date": "2026-09-08T06:45:00.000Z",
       "impact": "Low",
       "forecast": "€-5.820 B",
-      "previous": "€-5.847 B"
+      "previous": "€-5.751 B"
     },
     {
-      "id": "285835-2026-09-08T08:40:00.000Z-3-Month-Letras-Auction",
+      "id": "285835-2026-09-08T08:55:00.000Z-3-Month-Letras-Auction",
       "title": "3-Month Letras Auction",
       "country": "EUR",
-      "date": "2026-09-08T08:40:00.000Z",
+      "date": "2026-09-08T08:55:00.000Z",
       "impact": "Low",
       "previous": "2.387%"
     },
     {
-      "id": "285859-2026-09-08T08:40:00.000Z-9-Month-Letras-Auction",
+      "id": "285859-2026-09-08T08:55:00.000Z-9-Month-Letras-Auction",
       "title": "9-Month Letras Auction",
       "country": "EUR",
-      "date": "2026-09-08T08:40:00.000Z",
+      "date": "2026-09-08T08:55:00.000Z",
       "impact": "Low",
       "previous": "2.605%"
     },
@@ -398,15 +400,6 @@
       "country": "AUD",
       "date": "2026-09-08T09:30:00.000Z",
       "impact": "Medium"
-    },
-    {
-      "id": "318397-2026-09-08T10:30:00.000Z-Consumer-Confidence",
-      "title": "Consumer Confidence",
-      "country": "EUR",
-      "date": "2026-09-08T10:30:00.000Z",
-      "impact": "Low",
-      "forecast": "77.4",
-      "previous": "81.2"
     },
     {
       "id": "318216-2026-09-08T13:15:00.000Z-BoE-Deputy-Governor-Markets-and-Banking-Ramsden-Speech",
@@ -541,6 +534,15 @@
       "date": "2026-09-09T09:30:00.000Z",
       "impact": "Low",
       "previous": "2.768%"
+    },
+    {
+      "id": "318493-2026-09-09T10:30:00.000Z-Consumer-Confidence",
+      "title": "Consumer Confidence",
+      "country": "EUR",
+      "date": "2026-09-09T10:30:00.000Z",
+      "impact": "Low",
+      "forecast": "77.4",
+      "previous": "81.2"
     },
     {
       "id": "248268-2026-09-09T16:00:00.000Z-EIA-Short-Term-Energy-Outlook",
