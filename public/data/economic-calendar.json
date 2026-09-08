@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1788804147390,
+  "updatedAt": 1788826126262,
   "source": "live",
-  "count": 240,
+  "count": 225,
   "events": [
     {
       "id": "305993-2026-09-06T23:50:00.000Z-International-Reserves",
@@ -152,7 +152,7 @@
       "date": "2026-09-07T22:45:00.000Z",
       "impact": "Low",
       "forecast": "-0.2%",
-      "previous": "3.6%"
+      "previous": "3.9%"
     },
     {
       "id": "313524-2026-09-07T22:45:00.000Z-Manufacturing-Sales-q/q",
@@ -161,7 +161,7 @@
       "date": "2026-09-07T22:45:00.000Z",
       "impact": "Low",
       "forecast": "0.3%",
-      "previous": "2.8%"
+      "previous": "3.1%"
     },
     {
       "id": "317098-2026-09-07T23:30:00.000Z-Labor-Cash-Earnings-y/y",
@@ -170,7 +170,7 @@
       "date": "2026-09-07T23:30:00.000Z",
       "impact": "Low",
       "forecast": "1.8%",
-      "previous": "3.4%"
+      "previous": "4.0%"
     },
     {
       "id": "317105-2026-09-07T23:30:00.000Z-Overtime-Pay-y/y",
@@ -179,7 +179,7 @@
       "date": "2026-09-07T23:30:00.000Z",
       "impact": "Low",
       "forecast": "2.1%",
-      "previous": "2.8%"
+      "previous": "3.4%"
     },
     {
       "id": "317112-2026-09-07T23:30:00.000Z-Real-Wage-y/y",
@@ -188,7 +188,7 @@
       "date": "2026-09-07T23:30:00.000Z",
       "impact": "Low",
       "forecast": "-0.7%",
-      "previous": "1.6%"
+      "previous": "2.2%"
     },
     {
       "id": "288952-2026-09-07T23:50:00.000Z-GDP-q/q",
@@ -970,93 +970,13 @@
       "previous": "-1.8"
     },
     {
-      "id": "318351-2026-09-11T06:00:00.000Z-Construction-Output-m/m",
-      "title": "Construction Output m/m",
+      "id": "318462-2026-09-11T06:00:00.000Z-Index-of-Services",
+      "title": "Index of Services",
       "country": "GBP",
       "date": "2026-09-11T06:00:00.000Z",
       "impact": "Low",
-      "forecast": "-0.3%",
-      "previous": "-0.1%"
-    },
-    {
-      "id": "318353-2026-09-11T06:00:00.000Z-Construction-Output-y/y",
-      "title": "Construction Output y/y",
-      "country": "GBP",
-      "date": "2026-09-11T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "-1.4%",
-      "previous": "-2.3%"
-    },
-    {
-      "id": "318355-2026-09-11T06:00:00.000Z-Industrial-Production-m/m",
-      "title": "Industrial Production m/m",
-      "country": "GBP",
-      "date": "2026-09-11T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "-0.1%",
-      "previous": "-0.2%"
-    },
-    {
-      "id": "318357-2026-09-11T06:00:00.000Z-Industrial-Production-y/y",
-      "title": "Industrial Production y/y",
-      "country": "GBP",
-      "date": "2026-09-11T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "0.0%",
-      "previous": "-0.2%"
-    },
-    {
-      "id": "318359-2026-09-11T06:00:00.000Z-Manufacturing-Production-m/m",
-      "title": "Manufacturing Production m/m",
-      "country": "GBP",
-      "date": "2026-09-11T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "-0.2%",
-      "previous": "-0.5%"
-    },
-    {
-      "id": "318361-2026-09-11T06:00:00.000Z-Manufacturing-Production-y/y",
-      "title": "Manufacturing Production y/y",
-      "country": "GBP",
-      "date": "2026-09-11T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "0.0%",
+      "forecast": "0.3%",
       "previous": "0.5%"
-    },
-    {
-      "id": "318363-2026-09-11T06:00:00.000Z-Trade-Balance",
-      "title": "Trade Balance",
-      "country": "GBP",
-      "date": "2026-09-11T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "£-22.037 B",
-      "previous": "£-23.007 B"
-    },
-    {
-      "id": "318365-2026-09-11T06:00:00.000Z-Trade-Balance-Non-EU",
-      "title": "Trade Balance Non-EU",
-      "country": "GBP",
-      "date": "2026-09-11T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "£-4.324 B",
-      "previous": "£-10.448 B"
-    },
-    {
-      "id": "318378-2026-09-11T06:00:00.000Z-GDP-m/m",
-      "title": "GDP m/m",
-      "country": "GBP",
-      "date": "2026-09-11T06:00:00.000Z",
-      "impact": "High",
-      "forecast": "0.0%",
-      "previous": "0.3%"
-    },
-    {
-      "id": "318380-2026-09-11T06:00:00.000Z-GDP-3m/3m",
-      "title": "GDP 3m/3m",
-      "country": "GBP",
-      "date": "2026-09-11T06:00:00.000Z",
-      "impact": "Medium",
-      "previous": "0.4%"
     },
     {
       "id": "281634-2026-09-11T08:00:00.000Z-Quarterly-Unemployment-Rate",
@@ -1251,13 +1171,6 @@
       "impact": "Low",
       "forecast": "0.3%",
       "previous": "0.3%"
-    },
-    {
-      "id": "ff-2026-09-11T15:00:00.000Z-Fed-Monetary-Policy-Report",
-      "title": "Fed Monetary Policy Report",
-      "country": "USD",
-      "date": "2026-09-11T15:00:00.000Z",
-      "impact": "High"
     },
     {
       "id": "293059-2026-09-11T16:00:00.000Z-WASDE-Report",
@@ -1690,51 +1603,6 @@
       "impact": "Low",
       "forecast": "3.0%",
       "previous": "5.9%"
-    },
-    {
-      "id": "318339-2026-09-15T06:00:00.000Z-Average-Weekly-Earnings,-Regular-Pay-y/y",
-      "title": "Average Weekly Earnings, Regular Pay y/y",
-      "country": "GBP",
-      "date": "2026-09-15T06:00:00.000Z",
-      "impact": "Low",
-      "forecast": "3.5%",
-      "previous": "3.4%"
-    },
-    {
-      "id": "318342-2026-09-15T06:00:00.000Z-Average-Weekly-Earnings,-Total-Pay-y/y",
-      "title": "Average Weekly Earnings, Total Pay y/y",
-      "country": "GBP",
-      "date": "2026-09-15T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "4.5%",
-      "previous": "4.3%"
-    },
-    {
-      "id": "318345-2026-09-15T06:00:00.000Z-Unemployment-Rate",
-      "title": "Unemployment Rate",
-      "country": "GBP",
-      "date": "2026-09-15T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "4.8%",
-      "previous": "4.9%"
-    },
-    {
-      "id": "318348-2026-09-15T06:00:00.000Z-Claimant-Count-Change",
-      "title": "Claimant Count Change",
-      "country": "GBP",
-      "date": "2026-09-15T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "15.8 K",
-      "previous": "6.7 K"
-    },
-    {
-      "id": "318382-2026-09-15T06:00:00.000Z-Employment-Change-3-months",
-      "title": "Employment Change 3-months",
-      "country": "GBP",
-      "date": "2026-09-15T06:00:00.000Z",
-      "impact": "Medium",
-      "forecast": "82 K",
-      "previous": "147 K"
     },
     {
       "id": "309891-2026-09-15T06:45:00.000Z-CPI-m/m",
