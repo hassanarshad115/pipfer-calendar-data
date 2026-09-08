@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788870785518,
+  "updatedAt": 1788886783223,
   "source": "live",
   "count": 225,
   "events": [
@@ -429,7 +429,7 @@
       "date": "2026-09-08T14:00:00.000Z",
       "impact": "Low",
       "forecast": "107.02",
-      "previous": "107.71"
+      "previous": "107.76"
     },
     {
       "id": "318166-2026-09-08T15:00:00.000Z-ECB-Executive-Board-Member-Elderson-Speech",
@@ -1552,14 +1552,16 @@
       "title": "3-Month Bill Auction",
       "country": "USD",
       "date": "2026-09-14T15:30:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "3.800%"
     },
     {
       "id": "301549-2026-09-14T15:30:00.000Z-6-Month-Bill-Auction",
       "title": "6-Month Bill Auction",
       "country": "USD",
       "date": "2026-09-14T15:30:00.000Z",
-      "impact": "Low"
+      "impact": "Low",
+      "previous": "3.890%"
     },
     {
       "id": "313503-2026-09-14T22:45:00.000Z-Electronic-Card-Retail-Sales-m/m",
