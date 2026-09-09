@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1788886783223,
+  "updatedAt": 1788911999430,
   "source": "live",
-  "count": 225,
+  "count": 239,
   "events": [
     {
       "id": "305993-2026-09-06T23:50:00.000Z-International-Reserves",
@@ -475,7 +475,7 @@
       "date": "2026-09-08T19:00:00.000Z",
       "impact": "Medium",
       "forecast": "$11.28 B",
-      "previous": "$14.17 B"
+      "previous": "$14.56 B"
     },
     {
       "id": "280980-2026-09-08T23:50:00.000Z-BoJ-M2-Money-Stock-y/y",
@@ -484,7 +484,7 @@
       "date": "2026-09-08T23:50:00.000Z",
       "impact": "Low",
       "forecast": "2.0%",
-      "previous": "2.2%"
+      "previous": "2.1%"
     },
     {
       "id": "281025-2026-09-08T23:50:00.000Z-BoJ-M3-Money-Stock-y/y",
@@ -492,7 +492,7 @@
       "country": "JPY",
       "date": "2026-09-08T23:50:00.000Z",
       "impact": "Low",
-      "previous": "1.4%"
+      "previous": "1.3%"
     },
     {
       "id": "281031-2026-09-08T23:50:00.000Z-BoJ-L-Money-Stock-y/y",
@@ -501,7 +501,7 @@
       "date": "2026-09-08T23:50:00.000Z",
       "impact": "High",
       "forecast": "4.5%",
-      "previous": "4.4%"
+      "previous": "4.5%"
     },
     {
       "id": "314983-2026-09-09T06:00:00.000Z-Machine-Tool-Orders-y/y",
@@ -972,13 +972,93 @@
       "previous": "-1.8"
     },
     {
-      "id": "318462-2026-09-11T06:00:00.000Z-Index-of-Services",
-      "title": "Index of Services",
+      "id": "318510-2026-09-11T06:00:00.000Z-Construction-Output-m/m",
+      "title": "Construction Output m/m",
       "country": "GBP",
       "date": "2026-09-11T06:00:00.000Z",
       "impact": "Low",
-      "forecast": "0.3%",
+      "forecast": "-0.3%",
+      "previous": "-0.1%"
+    },
+    {
+      "id": "318512-2026-09-11T06:00:00.000Z-Construction-Output-y/y",
+      "title": "Construction Output y/y",
+      "country": "GBP",
+      "date": "2026-09-11T06:00:00.000Z",
+      "impact": "Low",
+      "forecast": "-1.4%",
+      "previous": "-2.3%"
+    },
+    {
+      "id": "318514-2026-09-11T06:00:00.000Z-Industrial-Production-m/m",
+      "title": "Industrial Production m/m",
+      "country": "GBP",
+      "date": "2026-09-11T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "-0.1%",
+      "previous": "-0.2%"
+    },
+    {
+      "id": "318516-2026-09-11T06:00:00.000Z-Industrial-Production-y/y",
+      "title": "Industrial Production y/y",
+      "country": "GBP",
+      "date": "2026-09-11T06:00:00.000Z",
+      "impact": "Low",
+      "forecast": "0.0%",
+      "previous": "-0.2%"
+    },
+    {
+      "id": "318518-2026-09-11T06:00:00.000Z-Manufacturing-Production-m/m",
+      "title": "Manufacturing Production m/m",
+      "country": "GBP",
+      "date": "2026-09-11T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "-0.2%",
+      "previous": "-0.5%"
+    },
+    {
+      "id": "318520-2026-09-11T06:00:00.000Z-Manufacturing-Production-y/y",
+      "title": "Manufacturing Production y/y",
+      "country": "GBP",
+      "date": "2026-09-11T06:00:00.000Z",
+      "impact": "Low",
+      "forecast": "0.0%",
       "previous": "0.5%"
+    },
+    {
+      "id": "318522-2026-09-11T06:00:00.000Z-Trade-Balance",
+      "title": "Trade Balance",
+      "country": "GBP",
+      "date": "2026-09-11T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "£-22.037 B",
+      "previous": "£-23.007 B"
+    },
+    {
+      "id": "318524-2026-09-11T06:00:00.000Z-Trade-Balance-Non-EU",
+      "title": "Trade Balance Non-EU",
+      "country": "GBP",
+      "date": "2026-09-11T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "£-4.324 B",
+      "previous": "£-10.448 B"
+    },
+    {
+      "id": "318537-2026-09-11T06:00:00.000Z-GDP-m/m",
+      "title": "GDP m/m",
+      "country": "GBP",
+      "date": "2026-09-11T06:00:00.000Z",
+      "impact": "High",
+      "forecast": "0.0%",
+      "previous": "0.3%"
+    },
+    {
+      "id": "318539-2026-09-11T06:00:00.000Z-GDP-3m/3m",
+      "title": "GDP 3m/3m",
+      "country": "GBP",
+      "date": "2026-09-11T06:00:00.000Z",
+      "impact": "Medium",
+      "previous": "0.4%"
     },
     {
       "id": "281634-2026-09-11T08:00:00.000Z-Quarterly-Unemployment-Rate",
@@ -1358,18 +1438,18 @@
       "previous": "-24.9 K"
     },
     {
-      "id": "ff-2026-09-12T07:30:00.000Z-ECB-President-Lagarde-Speaks",
-      "title": "ECB President Lagarde Speaks",
-      "country": "EUR",
-      "date": "2026-09-12T07:30:00.000Z",
-      "impact": "Medium"
-    },
-    {
       "id": "318165-2026-09-12T08:00:00.000Z-ECB-President-Lagarde-Speech",
       "title": "ECB President Lagarde Speech",
       "country": "EUR",
       "date": "2026-09-12T08:00:00.000Z",
       "impact": "High"
+    },
+    {
+      "id": "ff-2026-09-12T08:00:00.000Z-ECB-President-Lagarde-Speaks",
+      "title": "ECB President Lagarde Speaks",
+      "country": "EUR",
+      "date": "2026-09-12T08:00:00.000Z",
+      "impact": "Medium"
     },
     {
       "id": "309607-2026-09-13T22:30:00.000Z-BusinessNZ-Services-Index",
@@ -1607,6 +1687,51 @@
       "impact": "Low",
       "forecast": "3.0%",
       "previous": "5.9%"
+    },
+    {
+      "id": "318498-2026-09-15T06:00:00.000Z-Average-Weekly-Earnings,-Regular-Pay-y/y",
+      "title": "Average Weekly Earnings, Regular Pay y/y",
+      "country": "GBP",
+      "date": "2026-09-15T06:00:00.000Z",
+      "impact": "Low",
+      "forecast": "3.5%",
+      "previous": "3.4%"
+    },
+    {
+      "id": "318501-2026-09-15T06:00:00.000Z-Average-Weekly-Earnings,-Total-Pay-y/y",
+      "title": "Average Weekly Earnings, Total Pay y/y",
+      "country": "GBP",
+      "date": "2026-09-15T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "4.5%",
+      "previous": "4.3%"
+    },
+    {
+      "id": "318504-2026-09-15T06:00:00.000Z-Unemployment-Rate",
+      "title": "Unemployment Rate",
+      "country": "GBP",
+      "date": "2026-09-15T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "4.8%",
+      "previous": "4.9%"
+    },
+    {
+      "id": "318507-2026-09-15T06:00:00.000Z-Claimant-Count-Change",
+      "title": "Claimant Count Change",
+      "country": "GBP",
+      "date": "2026-09-15T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "15.8 K",
+      "previous": "6.7 K"
+    },
+    {
+      "id": "318541-2026-09-15T06:00:00.000Z-Employment-Change-3-months",
+      "title": "Employment Change 3-months",
+      "country": "GBP",
+      "date": "2026-09-15T06:00:00.000Z",
+      "impact": "Medium",
+      "forecast": "82 K",
+      "previous": "147 K"
     },
     {
       "id": "309891-2026-09-15T06:45:00.000Z-CPI-m/m",
