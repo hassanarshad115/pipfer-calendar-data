@@ -1,7 +1,7 @@
 {
-  "updatedAt": 1788957545080,
+  "updatedAt": 1788973121136,
   "source": "live",
-  "count": 239,
+  "count": 241,
   "events": [
     {
       "id": "305993-2026-09-06T23:50:00.000Z-International-Reserves",
@@ -836,6 +836,22 @@
       "impact": "Low",
       "forecast": "49 B",
       "previous": "30 B"
+    },
+    {
+      "id": "318566-2026-09-10T15:30:00.000Z-4-Week-Bill-Auction",
+      "title": "4-Week Bill Auction",
+      "country": "USD",
+      "date": "2026-09-10T15:30:00.000Z",
+      "impact": "Low",
+      "previous": "3.700%"
+    },
+    {
+      "id": "318567-2026-09-10T15:30:00.000Z-8-Week-Bill-Auction",
+      "title": "8-Week Bill Auction",
+      "country": "USD",
+      "date": "2026-09-10T15:30:00.000Z",
+      "impact": "Low",
+      "previous": "3.750%"
     },
     {
       "id": "310488-2026-09-10T16:00:00.000Z-EIA-Crude-Oil-Stocks-Change",
