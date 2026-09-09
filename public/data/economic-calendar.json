@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1788918559137,
+  "updatedAt": 1788957545080,
   "source": "live",
   "count": 239,
   "events": [
@@ -517,32 +517,23 @@
       "date": "2026-09-09T06:45:00.000Z",
       "impact": "Low",
       "forecast": "-0.6%",
-      "previous": "-0.1%"
+      "previous": "-0.4%"
     },
     {
-      "id": "280407-2026-09-09T09:30:00.000Z-10-Year-Bond-Auction",
+      "id": "280407-2026-09-09T09:41:00.000Z-10-Year-Bond-Auction",
       "title": "10-Year Bond Auction",
       "country": "EUR",
-      "date": "2026-09-09T09:30:00.000Z",
+      "date": "2026-09-09T09:41:00.000Z",
       "impact": "Medium",
       "previous": "3.26%"
     },
     {
-      "id": "315873-2026-09-09T09:30:00.000Z-12-Month-BOT-Auction",
+      "id": "315873-2026-09-09T09:51:00.000Z-12-Month-BOT-Auction",
       "title": "12-Month BOT Auction",
       "country": "EUR",
-      "date": "2026-09-09T09:30:00.000Z",
+      "date": "2026-09-09T09:51:00.000Z",
       "impact": "Low",
       "previous": "2.768%"
-    },
-    {
-      "id": "318493-2026-09-09T10:30:00.000Z-Consumer-Confidence",
-      "title": "Consumer Confidence",
-      "country": "EUR",
-      "date": "2026-09-09T10:30:00.000Z",
-      "impact": "Low",
-      "forecast": "77.4",
-      "previous": "81.2"
     },
     {
       "id": "248268-2026-09-09T16:00:00.000Z-EIA-Short-Term-Energy-Outlook",
@@ -683,6 +674,15 @@
       "date": "2026-09-10T09:30:00.000Z",
       "impact": "Low",
       "previous": "4.613%"
+    },
+    {
+      "id": "318565-2026-09-10T10:30:00.000Z-Consumer-Confidence",
+      "title": "Consumer Confidence",
+      "country": "EUR",
+      "date": "2026-09-10T10:30:00.000Z",
+      "impact": "Low",
+      "forecast": "77.4",
+      "previous": "81.2"
     },
     {
       "id": "204752-2026-09-10T12:15:00.000Z-ECB-Deposit-Facility-Rate-Decision",
