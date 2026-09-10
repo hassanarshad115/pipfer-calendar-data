@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1789043933553,
+  "updatedAt": 1789059051533,
   "source": "live",
   "count": 243,
   "events": [
@@ -808,7 +808,7 @@
       "date": "2026-09-10T14:00:00.000Z",
       "impact": "Low",
       "forecast": "0.3%",
-      "previous": "-3.0%"
+      "previous": "-2.9%"
     },
     {
       "id": "287286-2026-09-10T14:00:00.000Z-Existing-Home-Sales",
@@ -868,7 +868,7 @@
       "impact": "High",
       "forecast": "7.559 M",
       "previous": "-4.450 M",
-      "actual": "-4.450 M",
+      "actual": "-0.390 M",
       "actualSource": "official"
     },
     {
